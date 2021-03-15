@@ -1,0 +1,275 @@
+0000.001 (0) Opened log file at time: Mon, 18 Jan 2021 17:00:41 +0000 on https://meatcannes.fr
+0000.013 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.46 WP: 5.6 PHP: 7.3.19-1~deb10u1 (apache2handler, Linux raspberrypi 5.4.83-v7+ #1379 SMP Mon Dec 14 13:08:57 GMT 2020 armv7l) MySQL: 10.3.27-MariaDB-0+deb10u1 WPLANG: fr_FR Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 18.6M | 20M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.022 (0) Free space on disk containing Updraft's temporary directory: 25092.9 MB
+0000.031 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.046 (0) Semaphore (fd, wp_options) being initialised
+0000.070 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.106 (0) Set semaphore last lock (fd) time to 2021-01-18 17:00:41
+0000.114 (0) Semaphore lock (fd) complete
+0000.214 (0) Backup run: resumption=0, nonce=c60ba500d4a9, file_nonce=c60ba500d4a9 begun at=1610989241 (1s ago), job type=backup
+0000.301 (0) Scheduling a resumption (1) after 300 seconds (1610989542) in case this run gets aborted
+0000.437 (0) Checking if we have a zip executable available
+0000.453 (0) Creation of backups of directories: beginning
+0000.487 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.209 (0) Total entities for the zip file: 1107 directories, 6773 files (0 skipped as non-modified), 127.2 MB
+0001.418 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.456 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.492 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.527 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.563 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.596 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.640 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.678 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.710 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.743 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.754 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (22.3 MB, 6773 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0013.736 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 1100 files added (on-disk size: 9557.9 KB)
+0013.775 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 1200 files added (on-disk size: 9557.9 KB)
+0013.821 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 1300 files added (on-disk size: 9557.9 KB)
+0013.859 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 1400 files added (on-disk size: 9557.9 KB)
+0013.900 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 1500 files added (on-disk size: 9557.9 KB)
+0013.939 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 1600 files added (on-disk size: 9557.9 KB)
+0013.978 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 1700 files added (on-disk size: 9557.9 KB)
+0014.012 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 1800 files added (on-disk size: 9557.9 KB)
+0014.046 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 1900 files added (on-disk size: 9557.9 KB)
+0014.086 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 2000 files added (on-disk size: 9557.9 KB)
+0014.095 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.3 MB, 6773 files batched, 1001 (2002) added so far); re-opening (prior size: 9557.9 KB)
+0020.662 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 2100 files added (on-disk size: 14878 KB)
+0020.700 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 2200 files added (on-disk size: 14878 KB)
+0020.733 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 2300 files added (on-disk size: 14878 KB)
+0020.767 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 2400 files added (on-disk size: 14878 KB)
+0020.800 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 2500 files added (on-disk size: 14878 KB)
+0020.847 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 2600 files added (on-disk size: 14878 KB)
+0020.884 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 2700 files added (on-disk size: 14878 KB)
+0020.918 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 2800 files added (on-disk size: 14878 KB)
+0020.956 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 2900 files added (on-disk size: 14878 KB)
+0020.994 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 3000 files added (on-disk size: 14878 KB)
+0021.005 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.6 MB, 6773 files batched, 1001 (3003) added so far); re-opening (prior size: 14878 KB)
+0028.296 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 3100 files added (on-disk size: 27843.9 KB)
+0028.333 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 3200 files added (on-disk size: 27843.9 KB)
+0028.370 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 3300 files added (on-disk size: 27843.9 KB)
+0028.405 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 3400 files added (on-disk size: 27843.9 KB)
+0028.441 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 3500 files added (on-disk size: 27843.9 KB)
+0028.475 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 3600 files added (on-disk size: 27843.9 KB)
+0028.511 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 3700 files added (on-disk size: 27843.9 KB)
+0028.544 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 3800 files added (on-disk size: 27843.9 KB)
+0028.581 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 3900 files added (on-disk size: 27843.9 KB)
+0028.619 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 4000 files added (on-disk size: 27843.9 KB)
+0028.631 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.7 MB, 6773 files batched, 1001 (4004) added so far); re-opening (prior size: 27843.9 KB)
+0034.620 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 4100 files added (on-disk size: 30192.6 KB)
+0034.652 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 4200 files added (on-disk size: 30192.6 KB)
+0034.686 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 4300 files added (on-disk size: 30192.6 KB)
+0034.718 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 4400 files added (on-disk size: 30192.6 KB)
+0034.754 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 4500 files added (on-disk size: 30192.6 KB)
+0034.792 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 4600 files added (on-disk size: 30192.6 KB)
+0034.827 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 4700 files added (on-disk size: 30192.6 KB)
+0034.864 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 4800 files added (on-disk size: 30192.6 KB)
+0034.899 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 4900 files added (on-disk size: 30192.6 KB)
+0034.932 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 5000 files added (on-disk size: 30192.6 KB)
+0034.942 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.3 MB, 6773 files batched, 1001 (5005) added so far); re-opening (prior size: 30192.6 KB)
+0045.770 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 5100 files added (on-disk size: 35594.4 KB)
+0045.807 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 5200 files added (on-disk size: 35594.4 KB)
+0045.842 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 5300 files added (on-disk size: 35594.4 KB)
+0045.882 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 5400 files added (on-disk size: 35594.4 KB)
+0045.920 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 5500 files added (on-disk size: 35594.4 KB)
+0045.956 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 5600 files added (on-disk size: 35594.4 KB)
+0045.994 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 5700 files added (on-disk size: 35594.4 KB)
+0046.028 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 5800 files added (on-disk size: 35594.4 KB)
+0046.066 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 5900 files added (on-disk size: 35594.4 KB)
+0046.101 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 6773 files batched, 995 (6000) added so far); re-opening (prior size: 35594.4 KB)
+0060.776 (0) A useful amount of data was added after this amount of zip processing: 15.6 s (normalised: 15.6 s, rate: 1638.3 KB/s)
+0060.811 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 6000 files added (on-disk size: 43763.9 KB)
+0060.990 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 6100 files added (on-disk size: 43763.9 KB)
+0061.027 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 6200 files added (on-disk size: 43763.9 KB)
+0061.064 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 6300 files added (on-disk size: 43763.9 KB)
+0061.098 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 6400 files added (on-disk size: 43763.9 KB)
+0061.131 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 6500 files added (on-disk size: 43763.9 KB)
+0061.164 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 6600 files added (on-disk size: 43763.9 KB)
+0061.198 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip.tmp: 6700 files added (on-disk size: 43763.9 KB)
+0072.648 (0) Created plugins zip (0) - 48662.8 KB in 72.2 s (674.4 KB/s) (sha1: 4a4a6595fb4a4094a76743dddadbdc51dafd5dcc, sha256: 4353292b8d9b7a9a6481e5988139d4dc1d9fc8c3f4e21b10b107f1c0afcb44ff)
+0072.668 (0) Beginning creation of dump of themes (split every: 400 MB)
+0072.741 (0) Total entities for the zip file: 102 directories, 598 files (0 skipped as non-modified), 13.7 MB
+0072.779 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0072.812 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0072.845 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0072.878 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0072.911 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0078.538 (0) Created themes zip (0) - 4442.9 KB in 5.9 s (758 KB/s) (sha1: 5b0a1dba493c8d4f7acc304048dae3bfb7ca7463, sha256: 8df7b52a398813c2f04b3b0ea201ddfb4410b993b99cb5c1d8215544c0dfc744)
+0078.554 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0078.561 (0) Looking for candidates to backup in: /var/www/meat/wp-content/uploads
+0078.565 (0) finding files: 2021: adding to list (1)
+0078.574 (0) finding files: template-kits: adding to list (2)
+0078.580 (0) finding files: essential-addons-elementor: adding to list (3)
+0078.584 (0) finding files: elementor: adding to list (4)
+0078.590 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0078.669 (0) Total entities for the zip file: 11 directories, 738 files (0 skipped as non-modified), 249.7 MB
+0078.697 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (26.5 MB, 738 files batched, 57 (57) added so far); re-opening (prior size: 0 KB)
+0081.553 (0) A useful amount of data was added after this amount of zip processing: 3.4 s (normalised: 3.2 s, rate: 7932.9 KB/s)
+0081.601 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.4197609424591, normalised_time=3.2270774214002, max_time=81.589362859726, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0081.636 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-uploads.zip.tmp: 100 files added (on-disk size: 27139.8 KB)
+0081.686 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-uploads.zip.tmp: 200 files added (on-disk size: 27139.8 KB)
+0081.729 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-uploads.zip.tmp: 300 files added (on-disk size: 27139.8 KB)
+0081.762 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-uploads.zip.tmp: 400 files added (on-disk size: 27139.8 KB)
+0081.796 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-uploads.zip.tmp: 500 files added (on-disk size: 27139.8 KB)
+0081.832 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-uploads.zip.tmp: 600 files added (on-disk size: 27139.8 KB)
+0081.845 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 200 MB added on this batch (200.7 MB, 738 files batched, 558 (615) added so far); re-opening (prior size: 27139.8 KB)
+0110.027 (0) A useful amount of data was added after this amount of zip processing: 28.9 s (normalised: 28.8 s, rate: 7111.5 KB/s)
+0110.129 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-uploads.zip.tmp: 700 files added (on-disk size: 226799.1 KB)
+0152.899 (0) Created uploads zip (0) - 249623.3 KB in 74.3 s (3359.7 KB/s) (sha1: 480c222b1a4e955032cf07519c44ee1ee4f482a5, sha256: 80d0ec45c5704aa7d00f7fb7ee0d935fc68b2f044a1ebe7e384ba29a932a5476)
+0152.917 (0) Beginning backup of other directories found in the content directory (index: 0)
+0152.924 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0152.938 (0) Looking for candidates to backup in: /var/www/meat/wp-content
+0152.947 (0) finding files: .DS_Store: adding to list (1)
+0152.953 (0) finding files: upgrade: skipping: excluded by options
+0152.960 (0) finding files: plugins: skipping: this is the plugins directory
+0152.965 (0) finding files: debug.log: skipping: excluded by options
+0152.971 (0) finding files: themes: skipping: this is the themes directory
+0152.975 (0) finding files: mu-plugins: adding to list (2)
+0152.986 (0) finding files: index.php: adding to list (3)
+0152.993 (0) finding files: updraft: skipping: this is the updraft directory
+0153.000 (0) finding files: languages: adding to list (4)
+0153.006 (0) finding files: uploads: skipping: this is the uploads directory
+0153.038 (0) Total entities for the zip file: 4 directories, 100 files (0 skipped as non-modified), 5.4 MB
+0153.073 (0) Zip: backup_2021-01-18-1800_Meat_c60ba500d4a9-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0155.912 (0) Created others zip (0) - 1533.9 KB in 2.9 s (530.6 KB/s) (sha1: d9b7c70e00337d1750776f609d5177d2a5d6b135, sha256: 1eb8c8065b28b0920323d9b7ffee65afd3205fe568dbe3ab9fab7a0ddad66799)
+0155.947 (0) Saving backup status to database (elements: 8)
+0156.044 (0) Beginning creation of database dump (WordPress DB)
+0156.066 (0) SQL compatibility mode is: ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0156.082 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0156.509 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1237 bytes total)
+0156.538 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0156.577 (0) Table wp_options: Total expected rows (approximate): 408
+0157.226 (0) Table wp_options: Rows added in this batch (next record: 1803): 404 (uncompressed bytes in this segment=2309751) in 0.58 seconds
+0157.259 (0) Table wp_options: finishing file(s) (2, 397.6 KB)
+0157.277 (0) Table wp_users: Total expected rows (approximate): 2
+0157.291 (0) Table wp_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1562) in 0.01 seconds
+0157.325 (0) Table wp_users: finishing file(s) (2, 0.7 KB)
+0157.340 (0) Table wp_usermeta: Total expected rows (approximate): 76
+0157.364 (0) Table wp_usermeta: Rows added in this batch (next record: 77): 76 (uncompressed bytes in this segment=14338) in 0.01 seconds
+0157.395 (0) Table wp_usermeta: finishing file(s) (2, 4.9 KB)
+0157.410 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0157.426 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=696) in 0.00 seconds
+0157.456 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0157.472 (0) Table wp_comments: Total expected rows (approximate): 0
+0157.483 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2225) in 0.01 seconds
+0157.549 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0157.567 (0) Table wp_links: Total expected rows (approximate): 0
+0157.588 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1306) in 0.01 seconds
+0157.620 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0157.639 (0) Table wp_ms_snippets: Total expected rows (approximate): 0
+0157.661 (0) Table wp_ms_snippets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=900) in 0.01 seconds
+0157.705 (0) Table wp_ms_snippets: finishing file(s) (2, 0.4 KB)
+0157.727 (0) Table wp_postmeta: Total expected rows (approximate): 7125
+0160.556 (0) Table wp_postmeta: Rows added in this batch (next record: 8898): 7125 (uncompressed bytes in this segment=25640919) in 2.82 seconds
+0160.587 (0) Table wp_postmeta: finishing file(s) (2, 1461.9 KB)
+0160.607 (0) Table wp_posts: Total expected rows (approximate): 1327
+0161.508 (0) Table wp_posts: Rows added in this batch (next record: 1538): 1327 (uncompressed bytes in this segment=5253064) in 0.89 seconds
+0161.556 (0) Table wp_posts: finishing file(s) (2, 934.4 KB)
+0161.577 (0) Table wp_snippets: Total expected rows (approximate): 6
+0161.596 (0) Table wp_snippets: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=4575) in 0.01 seconds
+0161.624 (0) Table wp_snippets: finishing file(s) (2, 1.7 KB)
+0161.646 (0) Table wp_term_relationships: Total expected rows (approximate): 32
+0161.673 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 32 (uncompressed bytes in this segment=1135) in 0.02 seconds
+0161.701 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0161.718 (0) Table wp_term_taxonomy: Total expected rows (approximate): 6
+0161.745 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=1136) in 0.02 seconds
+0161.775 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0161.797 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0161.814 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=669) in 0.01 seconds
+0161.844 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0161.864 (0) Table wp_terms: Total expected rows (approximate): 6
+0161.880 (0) Table wp_terms: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=916) in 0.01 seconds
+0161.937 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0161.954 (0) Table wp_notification_logs: Total expected rows (approximate): 0
+0161.974 (0) Table wp_notification_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=688) in 0.01 seconds
+0162.010 (0) Table wp_notification_logs: finishing file(s) (2, 0.4 KB)
+0162.027 (0) Table wp_yoast_indexable: Total expected rows (approximate): 242
+0162.117 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 245): 242 (uncompressed bytes in this segment=135008) in 0.08 seconds
+0162.151 (0) Table wp_yoast_indexable: finishing file(s) (2, 14.1 KB)
+0162.176 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 78
+0162.193 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 78 (uncompressed bytes in this segment=2118) in 0.01 seconds
+0162.225 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.6 KB)
+0162.245 (0) Table wp_yoast_migrations: Total expected rows (approximate): 21
+0162.261 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 21): 21 (uncompressed bytes in this segment=1149) in 0.01 seconds
+0162.297 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0162.315 (0) Table wp_yoast_primary_term: Total expected rows (approximate): 0
+0162.331 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=860) in 0.01 seconds
+0162.365 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0162.382 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 60
+0162.406 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 1761): 60 (uncompressed bytes in this segment=9320) in 0.01 seconds
+0162.443 (0) Table wp_yoast_seo_links: finishing file(s) (2, 2 KB)
+0162.453 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_options.table.tmpr1804.gz (1/20): adding to final database dump
+0162.843 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_options.table.gz (2/20): adding to final database dump
+0162.854 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_users.table.tmpr3.gz (3/20): adding to final database dump
+0162.869 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_users.table.gz (4/20): adding to final database dump
+0162.876 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_usermeta.table.tmpr78.gz (5/20): adding to final database dump
+0162.886 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_usermeta.table.gz (6/20): adding to final database dump
+0162.893 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_commentmeta.table.tmpr0.gz (7/20): adding to final database dump
+0162.900 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_commentmeta.table.gz (8/20): adding to final database dump
+0162.905 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_comments.table.tmpr2.gz (9/20): adding to final database dump
+0162.917 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_comments.table.gz (10/20): adding to final database dump
+0162.924 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_links.table.tmpr0.gz (11/20): adding to final database dump
+0162.931 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_links.table.gz (12/20): adding to final database dump
+0162.936 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_ms_snippets.table.tmpr0.gz (13/20): adding to final database dump
+0162.942 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_ms_snippets.table.gz (14/20): adding to final database dump
+0162.951 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_postmeta.table.tmpr8899.gz (15/20): adding to final database dump
+0165.093 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_postmeta.table.gz (16/20): adding to final database dump
+0165.110 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_posts.table.tmpr1539.gz (17/20): adding to final database dump
+0165.817 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_posts.table.gz (18/20): adding to final database dump
+0165.833 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_snippets.table.tmpr7.gz (19/20): adding to final database dump
+0165.842 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_snippets.table.gz (20/20): adding to final database dump
+0165.846 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_term_relationships.table.tmpr100001.gz (21/20): adding to final database dump
+0165.855 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_term_relationships.table.gz (22/20): adding to final database dump
+0165.862 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_term_taxonomy.table.tmpr7.gz (23/20): adding to final database dump
+0165.867 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_term_taxonomy.table.gz (24/20): adding to final database dump
+0165.878 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_termmeta.table.tmpr0.gz (25/20): adding to final database dump
+0165.886 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_termmeta.table.gz (26/20): adding to final database dump
+0165.894 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_terms.table.tmpr7.gz (27/20): adding to final database dump
+0165.901 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_terms.table.gz (28/20): adding to final database dump
+0165.906 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_notification_logs.table.tmpr0.gz (29/20): adding to final database dump
+0165.916 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_notification_logs.table.gz (30/20): adding to final database dump
+0165.923 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_yoast_indexable.table.tmpr246.gz (31/20): adding to final database dump
+0165.946 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_yoast_indexable.table.gz (32/20): adding to final database dump
+0165.956 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (33/20): adding to final database dump
+0165.966 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_yoast_indexable_hierarchy.table.gz (34/20): adding to final database dump
+0165.973 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_yoast_migrations.table.tmpr22.gz (35/20): adding to final database dump
+0165.980 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_yoast_migrations.table.gz (36/20): adding to final database dump
+0165.988 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_yoast_primary_term.table.tmpr0.gz (37/20): adding to final database dump
+0165.996 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_yoast_primary_term.table.gz (38/20): adding to final database dump
+0166.015 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_yoast_seo_links.table.tmpr1762.gz (39/20): adding to final database dump
+0166.037 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db-table-wp_yoast_seo_links.table.gz (40/20): adding to final database dump
+0166.071 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db.gz: finished writing out complete database file (2800 KB)
+0166.266 (0) Total database tables backed up: 20 (backup_2021-01-18-1800_Meat_c60ba500d4a9-db.gz, size: 2885494, sha1: 3f308829a75f321269aec5aca2ff82dc4d4e97dc, sha256: e5d3d19f38724dec93c802eac3c9c1ae6505806640e011543ea6eb7de2b01f66)
+0166.312 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0166.319 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0166.326 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0166.334 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-others.zip: others: This file has not yet been successfully uploaded: will queue
+0166.341 (0) backup_2021-01-18-1800_Meat_c60ba500d4a9-db.gz: db: This file has not yet been successfully uploaded: will queue
+0166.345 (0) Saving backup history. Total backup size: 299.9 MB
+0166.360 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0166.388 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0166.394 (0) No remote despatch: user chose no remote backup service
+0166.401 (0) Recording as successfully uploaded: backup_2021-01-18-1800_Meat_c60ba500d4a9-plugins.zip
+0166.418 (0) Recording as successfully uploaded: backup_2021-01-18-1800_Meat_c60ba500d4a9-themes.zip
+0166.429 (0) Recording as successfully uploaded: backup_2021-01-18-1800_Meat_c60ba500d4a9-uploads.zip
+0166.442 (0) Recording as successfully uploaded: backup_2021-01-18-1800_Meat_c60ba500d4a9-others.zip
+0166.456 (0) Recording as successfully uploaded: backup_2021-01-18-1800_Meat_c60ba500d4a9-db.gz
+0166.482 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0166.488 (0) Number of backup sets in history: 1; groups (db): 1
+0166.496 (0) Examining (for databases) backup set with group_id=0, nonce=c60ba500d4a9, datestamp=1610989241 (Jan 18 2021 17:00:41)
+0166.503 (0) This backup set is the backup set just made, so will not be deleted.
+0166.503 (0) Number of backup sets in history: 1; groups (files): 1
+0166.509 (0) Examining (for files) backup set with nonce=c60ba500d4a9, datestamp=1610989241 (Jan 18 2021 17:00:41)
+0166.509 (0) This backup set is the backup set just made, so will not be deleted.
+0166.513 (0) This backup set is the backup set just made, so will not be deleted.
+0166.514 (0) This backup set is the backup set just made, so will not be deleted.
+0166.514 (0) This backup set is the backup set just made, so will not be deleted.
+0166.515 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0166.521 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0166.541 (0) Resume backup (c60ba500d4a9, 0): finish run
+0166.578 (0) Decremented the semaphore (fd) by 1
+0166.589 (0) Semaphore (fd) unlocked
+0166.593 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0166.618 (0) The backup apparently succeeded and is now complete
+0166.628 (0) No email will/can be sent - the user has not configured an email address.
+0166.638 (0) La sauvegarde a apparemment réussi et est maintenant terminée

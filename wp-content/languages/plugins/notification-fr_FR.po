@@ -1,0 +1,1977 @@
+# Translation of Plugins - Notification &#8211; Custom Notifications and Alerts for WordPress - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Notification &#8211; Custom Notifications and Alerts for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-18 23:48:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Notification &#8211; Custom Notifications and Alerts for WordPress - Stable (latest release)\n"
+
+#: src/includes/defaults/global-merge-tags.php:82
+msgid "Admin avatar"
+msgstr "Avatar de l’administrateur"
+
+#: src/classes/Admin/Wizard.php:199
+msgid "Your account"
+msgstr "Votre compte"
+
+#: src/templates/carriers/widget-add.php:44
+msgid "Abort"
+msgstr "Abandonner"
+
+#: src/templates/wizard.php:66
+msgid "How Notification plugin works"
+msgstr "Comment l’extension Notification fonctionne"
+
+#: src/classes/Admin/Wizard.php:242
+msgid "Comment has been published"
+msgstr "Le commentaire a été publié"
+
+#: src/templates/wizard.php:73
+msgid "Skip the Wizard"
+msgstr "Passer l’assistant"
+
+#: src/templates/wizard.php:19
+msgid "Notification Wizard"
+msgstr "Assistant de Notification"
+
+#: src/classes/Defaults/Trigger/Plugin/Removed.php:22
+msgid "Plugin removed"
+msgstr "Extension supprimée"
+
+#: src/classes/Defaults/Trigger/User/UserRoleChanged.php:72
+msgid "New role"
+msgstr "Nouveau rôle"
+
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:94
+msgid "twentyseventeen"
+msgstr "twentyseventeen"
+
+#: src/classes/Defaults/Trigger/Theme/Switched.php:113
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:83
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: src/classes/Defaults/Field/ImageField.php:28
+#: src/classes/Utils/Settings/CoreFields/Image.php:40
+msgid "Select image"
+msgstr "Sélectionner une image"
+
+#: src/classes/Defaults/Trigger/Theme/Updated.php:23
+msgid "Theme updated"
+msgstr "Thème mis à jour"
+
+#: src/classes/Admin/Settings.php:209 src/classes/Admin/Settings.php:211
+#: src/classes/Defaults/Trigger/Theme/Switched.php:27
+#: src/classes/Defaults/Trigger/Theme/Updated.php:27
+#: src/classes/Defaults/Trigger/Theme/Updated.php:75
+#: src/classes/Defaults/Trigger/Theme/Installed.php:27
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:33
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:44
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:55
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:66
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:77
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:88
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:99
+msgid "Theme"
+msgstr "Thème"
+
+#: src/classes/Admin/Debugging.php:75 src/classes/Admin/Debugging.php:86
+msgid "Log"
+msgstr "Journal"
+
+#: src/classes/Admin/Debugging.php:176
+msgid "See debug log"
+msgstr "Voir le journal de débogage"
+
+#: src/classes/Defaults/Trigger/Plugin/Installed.php:22
+msgid "Plugin installed"
+msgstr "Extension installée"
+
+#: src/classes/Defaults/Trigger/Plugin/PluginTrigger.php:61
+msgid "https://wordpress.org/plugins/example"
+msgstr "https://wordpress.org/plugins/example"
+
+#: src/classes/Defaults/Trigger/Plugin/Updated.php:22
+msgid "Plugin updated"
+msgstr "Extension mise à jour"
+
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:49
+msgid "Theme version"
+msgstr "Version du thème"
+
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:38
+msgid "Theme description"
+msgstr "Description du thème"
+
+#: src/classes/Defaults/Trigger/Theme/Switched.php:58
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:28
+msgid "Twenty Seventeen"
+msgstr "Twenty Seventeen"
+
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:27
+msgid "Theme name"
+msgstr "Nom du thème"
+
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:71
+msgid "Theme author"
+msgstr "Auteur du thème"
+
+#: src/classes/Defaults/Trigger/Theme/Installed.php:23
+msgid "Theme installed"
+msgstr "Thème installé"
+
+#: src/classes/Defaults/Trigger/Theme/Switched.php:91
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:61
+msgid "https://wordpress.org/themes/twentyseventeen/"
+msgstr "https://wordpress.org/themes/twentyseventeen/"
+
+#: src/classes/Defaults/Trigger/Plugin/Updated.php:67
+msgid "Plugin previous version"
+msgstr "Version précédente de l’extension"
+
+#: src/includes/defaults/global-merge-tags.php:128
+msgid "Trigger execution time"
+msgstr "Horaire d’exécution du déclencheur"
+
+#: src/includes/defaults/global-merge-tags.php:121
+msgid "Trigger execution date and time"
+msgstr "Date et heure d’exécution du déclencheur"
+
+#: src/includes/defaults/global-merge-tags.php:114
+msgid "Trigger execution date"
+msgstr "Date d’exécution du déclencheur"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostScheduled.php:28
+msgid "%s scheduled"
+msgstr "%s planifié"
+
+#: src/classes/Defaults/Trigger/Theme/Updated.php:69
+msgid "Theme previous version"
+msgstr "Version précédente du thème"
+
+#: src/classes/Defaults/Trigger/Theme/Switched.php:102
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:72
+msgid "The WordPress team"
+msgstr "L’équipe WordPress"
+
+#: src/classes/Defaults/Trigger/Theme/Switched.php:80
+#: src/classes/Defaults/Trigger/Theme/Updated.php:70
+#: src/classes/Defaults/Trigger/Theme/ThemeTrigger.php:50
+#: src/classes/Defaults/Trigger/Plugin/Updated.php:68
+#: src/classes/Defaults/Trigger/Plugin/PluginTrigger.php:50
+msgid "1.0.0"
+msgstr "1.0.0"
+
+#: src/classes/Defaults/Trigger/Plugin/PluginTrigger.php:39
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Translators: %s numer of users.
+#: src/classes/Defaults/Recipient/Role.php:73
+msgid "%s user"
+msgid_plural "%s users"
+msgstr[0] "%s utilisateur"
+msgstr[1] "%s utilisateurs"
+
+#. translators: 1. Post Type 2. Taxonomy name.
+#: src/classes/Defaults/MergeTag/Post/PostTerms.php:62
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: src/classes/Admin/Settings.php:221 src/classes/Admin/Settings.php:223
+#: src/classes/Defaults/Trigger/Plugin/Deactivated.php:27
+#: src/classes/Defaults/Trigger/Plugin/Updated.php:26
+#: src/classes/Defaults/Trigger/Plugin/Updated.php:73
+#: src/classes/Defaults/Trigger/Plugin/Installed.php:26
+#: src/classes/Defaults/Trigger/Plugin/Removed.php:26
+#: src/classes/Defaults/Trigger/Plugin/Activated.php:27
+#: src/classes/Defaults/Trigger/Plugin/PluginTrigger.php:33
+#: src/classes/Defaults/Trigger/Plugin/PluginTrigger.php:44
+#: src/classes/Defaults/Trigger/Plugin/PluginTrigger.php:55
+#: src/classes/Defaults/Trigger/Plugin/PluginTrigger.php:66
+msgid "Plugin"
+msgstr "Extension"
+
+#: src/classes/Admin/Settings.php:331
+msgid "Unfiltered HTML"
+msgstr "HTML non filtré"
+
+#: src/classes/Defaults/Trigger/Plugin/Activated.php:23
+msgid "Plugin activated"
+msgstr "Extension activée"
+
+#: src/classes/Defaults/Trigger/Plugin/Deactivated.php:23
+msgid "Plugin deactivated"
+msgstr "Extension désactivée"
+
+#. translators: singular post name.
+#: src/classes/Defaults/MergeTag/Post/PostContentHtml.php:49
+msgid "%s content HTML"
+msgstr "Contenu HTML de %s"
+
+#: src/classes/Admin/Settings.php:335
+msgid "Allow unfiltered HTML in email body"
+msgstr "Autoriser le HTML non filtré dans le corps de l’e-mail"
+
+#: src/classes/Defaults/Trigger/Plugin/PluginTrigger.php:49
+msgid "Plugin version"
+msgstr "Version de l’extension"
+
+#: src/classes/Defaults/Trigger/Plugin/PluginTrigger.php:38
+msgid "Plugin author name"
+msgstr "Nom de l’auteur de l’extension"
+
+#: src/classes/Defaults/Trigger/Plugin/PluginTrigger.php:27
+msgid "Plugin name"
+msgstr "Nom de l’extension"
+
+#: src/classes/Admin/NotificationDuplicator.php:32
+#: src/classes/Admin/NotificationDuplicator.php:65
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: src/classes/Defaults/Trigger/User/UserLogin.php:71
+msgid "User IP"
+msgstr "IP de l’utilisateur"
+
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:124
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:126
+msgid "Not sticky"
+msgstr "Non épinglé"
+
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:124
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:126
+msgid "Sticky"
+msgstr "Épinglé"
+
+#. Translators: %s default value.
+#: src/classes/Admin/Settings.php:348 src/classes/Admin/Settings.php:357
+msgid "Leave blank to use default value: %s"
+msgstr "Laisser vide pour utiliser la valeur par défaut : %s"
+
+#: src/classes/Admin/Settings.php:342
+msgid "From Name"
+msgstr "Nom de l’expéditeur"
+
+#: src/classes/Admin/Settings.php:351
+msgid "From Email"
+msgstr "E-mail de l’expéditeur"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:121
+msgid "%s sticky status"
+msgstr "État épinglé de l'%s"
+
+#: src/classes/Defaults/Trigger/User/UserPasswordResetRequest.php:79
+msgid "Password reset request date"
+msgstr "Date de la demande de réinitialisation du mot de passe"
+
+#: src/classes/Defaults/Trigger/User/UserPasswordResetRequest.php:26
+msgid "Fires when user requests password change"
+msgstr "Se déclenche lorsqu’un utilisateur demande à changer son mot de passe"
+
+#: src/classes/Defaults/Trigger/User/UserPasswordResetRequest.php:22
+msgid "User password reset request"
+msgstr "Demande de réinitialisation du mot de passe utilisateur"
+
+#: src/classes/Defaults/Trigger/User/UserPasswordChanged.php:64
+msgid "Password change date"
+msgstr "Date de changement du mot de passe"
+
+#: src/classes/Defaults/Trigger/User/UserPasswordChanged.php:26
+msgid "Fires when user changed his password"
+msgstr "Se déclenche quand un utilisateur change son mot de passe"
+
+#: src/classes/Defaults/Trigger/User/UserPasswordChanged.php:22
+msgid "User password changed"
+msgstr "Mot de passe utilisateur changé"
+
+#: src/classes/Defaults/Trigger/User/UserLoginFailed.php:26
+msgid "Fires when user login failed"
+msgstr "Se déclenche quand un utilisateur échoue à se connecter"
+
+#: src/classes/Defaults/Trigger/User/UserLoginFailed.php:22
+msgid "User login failed"
+msgstr "Échec de la connexion de l’utilisateur"
+
+#: src/classes/Defaults/Trigger/Taxonomy/TermUpdated.php:87
+msgid "Term modification date and time"
+msgstr "Date et heure de la modification du terme"
+
+#. Translators: taxonomy name.
+#: src/classes/Defaults/Trigger/Taxonomy/TermUpdated.php:44
+msgid "%s term updated"
+msgstr "Terme %s mis à jour"
+
+#: src/classes/Defaults/Trigger/Taxonomy/TermDeleted.php:87
+msgid "Term deletion date and time"
+msgstr "Date et heure de la suppression du terme"
+
+#. Translators: taxonomy name.
+#: src/classes/Defaults/Trigger/Taxonomy/TermDeleted.php:44
+msgid "%s term deleted"
+msgstr "Terme %s supprimé"
+
+#: src/classes/Defaults/Trigger/Taxonomy/TermAdded.php:88
+msgid "Term creation date and time"
+msgstr "Date et heure de la création du terme"
+
+#. Translators: taxonomy name.
+#: src/classes/Defaults/Trigger/Taxonomy/TermAdded.php:44
+msgid "%s term created"
+msgstr "Terme %s créé"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostDrafted.php:28
+msgid "%s saved as a draft"
+msgstr "%s enregistré en tant que brouillon"
+
+#: src/classes/Defaults/MergeTag/User/UserPasswordResetLink.php:54
+msgid "http://example.com/wp-login.php?action=rp&key=mm2sAR8jmIyjSiMsCJRm&login=admin"
+msgstr "http://example.com/wp-login.php?action=rp&key=mm2sAR8jmIyjSiMsCJRm&login=admin"
+
+#: src/classes/Defaults/MergeTag/User/UserPasswordResetLink.php:53
+msgid "Password reset link"
+msgstr "Lien de réinitialisation du mot de passe"
+
+#: src/classes/Defaults/MergeTag/Taxonomy/TermSlug.php:30
+msgid "Term slug"
+msgstr "Slug du terme"
+
+#: src/classes/Defaults/MergeTag/Taxonomy/TermPermalink.php:30
+msgid "Term link"
+msgstr "Lien du terme"
+
+#: src/classes/Defaults/MergeTag/Taxonomy/TermName.php:30
+msgid "Term name"
+msgstr "Nom du terme"
+
+#: src/classes/Admin/Settings.php:323
+msgid "HTML"
+msgstr "HTML"
+
+#: src/classes/Admin/Settings.php:324
+msgid "Plain text"
+msgstr "Texte brut"
+
+#: src/classes/Defaults/MergeTag/Taxonomy/TermID.php:30
+msgid "Term ID"
+msgstr "ID du terme"
+
+#: src/classes/Defaults/MergeTag/Taxonomy/TermDescription.php:30
+msgid "Term description"
+msgstr "Description du terme"
+
+#: src/classes/Defaults/MergeTag/Taxonomy/TaxonomySlug.php:45
+msgid "Taxonomy slug"
+msgstr "Slug de la taxonomie"
+
+#: src/classes/Defaults/MergeTag/Taxonomy/TaxonomyName.php:45
+msgid "Taxonomy name"
+msgstr "Nom de la taxonomie"
+
+#: src/classes/Admin/Settings.php:318
+msgid "Message type"
+msgstr "Type de message"
+
+#: src/classes/Admin/Settings.php:148
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:143
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+#: src/classes/Admin/Settings.php:146
+#: src/classes/Defaults/MergeTag/Taxonomy/TaxonomyName.php:51
+#: src/classes/Defaults/MergeTag/Taxonomy/TaxonomySlug.php:51
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: src/classes/Admin/PostType.php:107 src/classes/Admin/PostType.php:108
+msgid "Notification saved."
+msgstr "Notification enregistrée."
+
+#: src/classes/Admin/PostType.php:102 src/classes/Admin/PostType.php:105
+msgid "Notification updated."
+msgstr "Notification mise à jour."
+
+#: src/classes/Admin/Settings.php:159
+msgid "For these taxonomies you will be able to define published, updated and deleted notifications"
+msgstr "Pour ces taxonomies, vous aurez la possibilité de définir des notifications à la publication, la mise à jour ou la suppression"
+
+#: src/classes/Defaults/Trigger/User/UserLoginFailed.php:70
+msgid "User login failed datetime"
+msgstr "Horodatage de l’échec de connexion de l’utilisateur"
+
+#. translators: 1. taxonomy name, 2. taxonomy slug.
+#: src/classes/Defaults/Trigger/Taxonomy/TermDeleted.php:50
+msgid "Fires when %1$s (%2$s) is deleted"
+msgstr "Se déclenche quand %1$s (%2$s) est supprimé"
+
+#. translators: 1. taxonomy name, 2. taxonomy slug.
+#: src/classes/Defaults/Trigger/Taxonomy/TermAdded.php:50
+msgid "Fires when %1$s (%2$s) is created"
+msgstr "Se déclenche quand %1$s (%2$s) est créé"
+
+#. translators: 1. singular post name, 2. post type slug.
+#: src/classes/Defaults/Trigger/Post/PostDrafted.php:34
+msgid "Fires when %1$s (%2$s) is saved as a draft"
+msgstr "Se déclenche quand %1$s (%2$s) est enregistré comme brouillon"
+
+#: src/classes/Defaults/Trigger/Comment/CommentReplied.php:171
+msgid "Parent comment author user display name"
+msgstr "Nom d’affichage de l'utilisateur auteur du commentaire parent"
+
+#: src/classes/Defaults/Trigger/Comment/CommentReplied.php:150
+msgid "Parent comment author URL"
+msgstr "URL de l'utilisateur auteur du commentaire parent"
+
+#: src/classes/Defaults/Trigger/Comment/CommentReplied.php:143
+msgid "Parent comment user agent"
+msgstr "Agent utilisateur du commentaire parent"
+
+#: src/classes/Defaults/Trigger/Comment/CommentReplied.php:136
+msgid "Parent comment author IP"
+msgstr "Adresse IP de l’auteur du commentaire parent"
+
+#: src/classes/Defaults/Trigger/Comment/CommentReplied.php:128
+msgid "Parent comment type"
+msgstr "Type de commentaire parent"
+
+#: src/classes/Defaults/Trigger/Comment/CommentReplied.php:121
+msgid "Parent comment status"
+msgstr "État du commentaire parent"
+
+#: src/classes/Defaults/Trigger/Comment/CommentReplied.php:114
+msgid "Parent comment content"
+msgstr "Contenu du commentaire parent"
+
+#: src/classes/Defaults/Trigger/Comment/CommentReplied.php:107
+msgid "Parent comment ID"
+msgstr "ID du commentaire parent"
+
+#. translators: comment type.
+#: src/classes/Defaults/Trigger/Comment/CommentReplied.php:35
+msgid "Fires when %s is replied and the reply is approved"
+msgstr "Se déclenche quand %s a une réponse qui a été approuvée"
+
+#. Translators: %s comment type.
+#: src/classes/Defaults/Trigger/Comment/CommentReplied.php:27
+msgid "%s replied"
+msgstr "Réponse à un %s"
+
+#: src/classes/Defaults/Trigger/Comment/CommentReplied.php:164
+msgid "Parent comment author user email"
+msgstr "E-mail de l’auteur du commentaire parent"
+
+#: src/classes/Defaults/Trigger/Comment/CommentReplied.php:157
+msgid "Parent comment author user ID"
+msgstr "ID de l’auteur du commentaire parent"
+
+#. translators: 1. singular post name, 2. post type slug.
+#: src/classes/Defaults/Trigger/Post/PostAdded.php:34
+msgid "Fires when %1$s (%2$s) is added to database. Useful when adding posts programatically or for 3rd party integration"
+msgstr "Se déclenche quand %1$s (%2$s) est ajouté à la base de données. Utile quand vous ajoutez des publications automatiquement ou via des intégrations tierces"
+
+#: src/classes/Defaults/Field/RecipientsField.php:29
+msgid "Recipients"
+msgstr "Destinataires"
+
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:162
+msgid "Theme updates"
+msgstr "Mises à jour de thème"
+
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:158
+msgid "Plugin updates"
+msgstr "Mises à jour d’extension"
+
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:154
+msgid "Core updates"
+msgstr "Mises à jour du cœur"
+
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:123
+msgid "Number of theme updates"
+msgstr "Nombre de mise à jour de thème"
+
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:115
+msgid "Number of plugin updates"
+msgstr "Nombre de mises à jour d’extension"
+
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:107
+msgid "Number of core updates"
+msgstr "Nombre de mises à jour du cœur"
+
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:99
+msgid "Number of all updates"
+msgstr "Nombre total de mises à jour"
+
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:89
+msgid "No updates available."
+msgstr "Aucunes mises à jour disponibles."
+
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:76
+msgid "The lists for core, plugins and themes updates."
+msgstr "La liste des mises à jours pour le cœur, les extensions et les thèmes."
+
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:75
+msgid "Updates list"
+msgstr "Liste de mises à jour"
+
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:37
+msgid "Fires periodically when new updates are available"
+msgstr "Se déclenche périodiquement quand de nouvelles mises à jour sont disponibles"
+
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:32
+msgid "Available updates"
+msgstr "Mises à jour disponibles"
+
+#. Translators: %s comment type.
+#: src/classes/Defaults/Trigger/Comment/CommentSpammed.php:27
+msgid "%s spammed"
+msgstr "%s mis en spam"
+
+#: src/classes/Defaults/Recipient/Webhook.php:57
+msgid "URL"
+msgstr "URL"
+
+#: src/classes/Defaults/Carrier/Email.php:51
+#: src/classes/Defaults/Carrier/Email.php:61
+msgid "Body"
+msgstr "Corps"
+
+#: src/classes/Defaults/MergeTag/Post/PostType.php:48
+msgid "Post Type"
+msgstr "Type de contenu"
+
+#: src/classes/Defaults/Field/RecipientsField.php:58
+msgid "Type"
+msgstr "Type"
+
+#: src/classes/Admin/Settings.php:261
+msgid "Updates check period"
+msgstr "Fréquence de vérification des mises à jour"
+
+#: src/classes/Admin/Settings.php:255
+msgid "Send updates email even if no updates available"
+msgstr "Envoyer un e-mail de mise à jour même s’il n’y a aucune mises à jour disponibles"
+
+#: src/classes/Admin/Settings.php:251
+msgid "Send if no updates"
+msgstr "Envoyer si aucune mises à jour"
+
+#: src/classes/Admin/Settings.php:239
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:36
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:94
+msgid "WordPress"
+msgstr "WordPress"
+
+#: src/classes/Admin/Settings.php:241
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:166
+msgid "Updates"
+msgstr "Mises à jour"
+
+#: src/classes/Admin/Settings.php:245
+msgid "Enable \"Updates available\" trigger"
+msgstr "Activer le déclencheur \"Mises à jour disponibles\""
+
+#: src/classes/Core/Cron.php:48
+msgid "Every month"
+msgstr "Tous les mois"
+
+#: src/classes/Core/Cron.php:43
+msgid "Every two weeks"
+msgstr "Toutes les deux semaines"
+
+#: src/classes/Core/Cron.php:38
+msgid "Every week"
+msgstr "Toutes les semaines"
+
+#: src/classes/Core/Cron.php:33
+msgid "Every three days"
+msgstr "Tous les trois jours"
+
+#: src/classes/Core/Cron.php:28
+msgid "Every two days"
+msgstr "Tous les deux jours"
+
+#. translators: 1. Plugin name, 2. Current version, 3. Update version.
+#. translators: 1. Theme name, 2. Current version, 3. Update version.
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:225
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:252
+msgid "<strong>%1$s</strong> <i>(current version: %2$s)</i>: %3$s"
+msgstr "<strong>%1$s</strong> <i>(version actuelle : %2$s)</i> : %3$s"
+
+#. translators: 1. Update type, 2. Version.
+#: src/classes/Defaults/Trigger/WordPress/UpdatesAvailable.php:198
+msgid "<strong>WordPress</strong> <i>(%1$s)</i>: %2$s"
+msgstr "<strong>WordPress</strong> <i>(%1$s)</i> : %2$s"
+
+#: src/classes/Defaults/Carrier/Webhook.php:74
+msgid "Send the arguments in JSON format"
+msgstr "Envoyer les arguments au format JSON"
+
+#: src/classes/Defaults/Carrier/WebhookJson.php:45
+#: src/classes/Defaults/Carrier/Webhook.php:72
+msgid "JSON"
+msgstr "JSON"
+
+#: src/classes/Defaults/Trigger/User/UserRegistered.php:57
+msgid "User password setup link"
+msgstr "Lien de définition du mot de passe utilisateur"
+
+#: src/classes/Defaults/Trigger/User/UserRegistered.php:59
+msgid "After using this Merge Tag, no other password setup links will work."
+msgstr "Après avoir utilisé ce champ de fusion, aucun autre lien de définition du mot de passe ne fonctionnera."
+
+#. translators: singular post name.
+#. Translators: Comment type name.
+#: src/classes/Defaults/MergeTag/Post/PostStatus.php:49
+#: src/classes/Defaults/MergeTag/Comment/CommentStatus.php:44
+msgid "%s status"
+msgstr "État de la/l' %s"
+
+#: src/includes/defaults/global-merge-tags.php:42
+msgid "Site theme name"
+msgstr "Nom du thème du site"
+
+#: src/includes/defaults/global-merge-tags.php:32
+msgid "Site tagline"
+msgstr "Slogan du site"
+
+#: src/includes/defaults/global-merge-tags.php:22
+msgid "Site title"
+msgstr "Titre du site"
+
+#: src/includes/defaults/global-merge-tags.php:12
+msgid "Site homepage URL"
+msgstr "URL de la page d’accueil du site"
+
+#: src/classes/Defaults/MergeTag/User/UserDisplayName.php:45
+msgid "John - fast finegrs - Doe"
+msgstr "John - les doigts rapides - Doe"
+
+#: src/classes/Defaults/MergeTag/User/UserDisplayName.php:44
+msgid "User display name"
+msgstr "Nom d’affichage de l’utilisateur"
+
+#. translators: 1. Post Type 2. Taxonomy name.
+#: src/classes/Defaults/MergeTag/Post/PostTerms.php:63
+msgid "General, Tech, Lifestyle"
+msgstr "Général, tech, mode de vie"
+
+#: src/templates/help/sidebar.php:15
+msgid "Rate the plugin"
+msgstr "Évaluer l’extension"
+
+#: src/templates/help/sidebar.php:14
+msgid "Documentation"
+msgstr "Documentation"
+
+#: src/templates/help/sidebar.php:13
+msgid "Support"
+msgstr "Support"
+
+#: src/templates/help/sidebar.php:10
+msgid "Useful links"
+msgstr "Liens utiles"
+
+#: src/includes/defaults/global-merge-tags.php:103
+msgid "Trigger slug"
+msgstr "Slug du déclencheur"
+
+#: src/includes/defaults/global-merge-tags.php:92
+msgid "Trigger name"
+msgstr "Nom du déclencheur"
+
+#: src/includes/defaults/global-merge-tags.php:72
+msgid "Admin email"
+msgstr "E-mail de l’admin"
+
+#: src/includes/defaults/global-merge-tags.php:62
+msgid "Current WordPress version"
+msgstr "Version actuelle de WordPress"
+
+#: src/includes/defaults/global-merge-tags.php:52
+msgid "Site theme version"
+msgstr "Version du thème du site"
+
+#: src/classes/Admin/Screen.php:401
+msgid "Global Merge Tags"
+msgstr "Champs de fusion globaux"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrashed.php:89
+msgid "Attachment trashing user display name"
+msgstr "Nom d’affichage de l’utilisateur qui a mis à la corbeille le fichier joint"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostUpdated.php:119
+msgid "%s updating user display name"
+msgstr "Nom d’affichage de l’utilisateur qui a mis à jour %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostPublished.php:114
+msgid "%s publishing user display name"
+msgstr "Nom d’affichage de l’utilisateur qui a mis à jour %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrashed.php:109
+msgid "%s trashing user display name"
+msgstr "Nom d’affichage de l’utilisateur qui a mis à la corbeille %s"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:75
+msgid "Attachment author user display name"
+msgstr "Nom d’affichage de l’auteur du fichier joint"
+
+#. translators: singular post name.
+#. Translators: Comment type name.
+#. Translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:203
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:150
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:235
+msgid "%s author user display name"
+msgstr "Nom d’affichage de l’auteur de la/l' %s"
+
+#. Description of the plugin
+msgid "Customisable email and webhook notifications with powerful developer friendly API for custom triggers and notifications. Send alerts easily."
+msgstr "Notifications par e-mail et crochets web personnalisables avec une API puissante, faite pour les développeuses et développeurs, permettant de créer des déclencheurs et des notifications personnalisés. Envoyez facilement des alertes."
+
+#: src/templates/help/global-merge-tags.php:10
+msgid "You can use the below Merge Tags in any Trigger and any Carrier."
+msgstr "Vous pouvez utiliser les balises de fusion ci-dessous avec n’importe quel déclencheur et n’importe quel routeur."
+
+#: src/templates/extension/extension-box-premium.php:38
+msgid "Visit the store"
+msgstr "Visiter la boutique"
+
+#: src/templates/extension/extension-box-premium.php:35
+msgid "Your license is expired."
+msgstr "Votre licence a expiré."
+
+#: src/templates/extension/extension-box-premium.php:32
+msgid "Your license is inactive."
+msgstr "Votre licence est inactive."
+
+#: src/templates/extension/extension-box-premium.php:29
+msgid "Your license never expires."
+msgstr "Votre licence n’expire jamais."
+
+#. translators: 1. Expiration date.
+#: src/templates/extension/extension-box-premium.php:27
+msgid "Your license expires on %s."
+msgstr "Votre licence expire le %s."
+
+#: src/classes/Utils/EDDUpdater.php:494 src/templates/debug/error-log.php:23
+msgid "Error"
+msgstr "Erreur"
+
+#: src/classes/Admin/Settings.php:98
+msgid "Licenses"
+msgstr "Licences"
+
+#: src/classes/Admin/Extensions.php:437
+msgid "Go to Extensions"
+msgstr "Aller aux Extensions"
+
+#. translators: 1. Link to documentation.
+#: src/templates/extension/promo-box.php:27
+msgid "documentation"
+msgstr "documentation"
+
+#: src/templates/extension/page.php:38
+msgid "Available extensions"
+msgstr "Extensions disponibles"
+
+#: src/templates/extension/page.php:18
+msgid "Premium extensions"
+msgstr "Extensions premium"
+
+#: src/templates/extension/extension-box-premium.php:52
+msgid "Deactivate license"
+msgstr "Désactiver la licence"
+
+#: src/templates/extension/extension-box-premium.php:47
+msgid "Save and activate license"
+msgstr "Enregistrer et activer la licence"
+
+#: src/templates/extension/extension-box-premium.php:46
+msgid "License key"
+msgstr "Clé de licence"
+
+#: src/templates/extension/extension-box-premium.php:23
+msgid "To receive updates, please enter your valid license key."
+msgstr "Pour recevoir les mises à jour, veuillez saisir votre clé de licence valide."
+
+#: src/classes/Admin/Extensions.php:391
+msgid "Your license key has reached its activation limit."
+msgstr "Votre clé de licence à atteint sa limite d’activation."
+
+#. translators: 1. Extension name.
+#: src/classes/Admin/Extensions.php:386
+msgid "This appears to be an invalid license key for %s."
+msgstr "La clé de licence semble non valide pour %s."
+
+#: src/classes/Admin/Extensions.php:380
+msgid "Your license is not active for this URL."
+msgstr "Votre licence n'est pas active pour cette URL."
+
+#: src/classes/Admin/Extensions.php:369
+msgid "Your license key has been disabled."
+msgstr "Votre clé de licence a été désactivée."
+
+#. translators: 1. Date.
+#: src/classes/Admin/Extensions.php:361
+msgid "Your license key expired on %s."
+msgstr "Votre clé de licence a expiré le %s."
+
+#: src/classes/Admin/Extensions.php:354
+msgid "Couldn't activate the license, please try again."
+msgstr "Nous n’avons pas pu activer la licence, veuillez essayer à nouveau."
+
+#: src/classes/Admin/Extensions.php:349
+msgid "Your license has been deactivated."
+msgstr "Votre licence a été désactivée."
+
+#: src/classes/Admin/Extensions.php:344
+msgid "Your license has been activated."
+msgstr "Votre licence a été activée."
+
+#: src/classes/Utils/EDDUpdater.php:494
+msgid "You do not have permission to install plugin updates"
+msgstr "Vous n’avez pas le droit d’installer les mises à jour des extensions"
+
+#. translators: 1. Link to documentation.
+#: src/templates/extension/promo-box.php:27
+msgid "See the %s for more information how to release an extension."
+msgstr "Voir la %s pour plus d’informations sur comment publier une extension."
+
+#: src/classes/Utils/EDDUpdater.php:251
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "Une nouvelle version de %1$s est disponible. %2$sVoir les détails de la version %3$s%4$s ou %5$smettez à jour maintenant%6$s."
+
+#: src/classes/Admin/Extensions.php:396
+msgid "An error occurred, please try again."
+msgstr "Une erreur s’est produite, veuillez réessayer."
+
+#: src/classes/Admin/Settings.php:102
+msgid "Remove and deactivate extension licenses"
+msgstr "Retirer et désactiver les licences des extensions."
+
+#: src/classes/Utils/EDDUpdater.php:243
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "Une nouvelle version de %1$s est disponible. %2$sVoir les détails de la version %3$s%4$s."
+
+#. Translators: 1. Plugin name, 2. Link.
+#: src/classes/Admin/Extensions.php:435
+msgid "Please activate the %1$s plugin to get the updates. %2$s"
+msgstr "Veuillez activer l’extension %1$s pour obtenir les mises à jour. %2$s"
+
+#. Author URI of the plugin
+msgid "https://bracketspace.com"
+msgstr "https://bracketspace.com"
+
+#. Author of the plugin
+msgid "BracketSpace"
+msgstr "BracketSpace"
+
+#: src/templates/help/global-merge-tags.php:22
+#: src/templates/mergetag/tag.php:23
+msgid "Example:"
+msgstr "Exemple :"
+
+#: src/includes/defaults/recipients.php:17
+msgid "GET"
+msgstr "GET"
+
+#: src/includes/defaults/recipients.php:16
+msgid "POST"
+msgstr "POST"
+
+#: src/templates/mergetag/searchbox.php:10
+msgid "Search merge tags"
+msgstr "Chercher parmi les champs de fusion"
+
+#: src/classes/Defaults/Trigger/Media/MediaUpdated.php:22
+msgid "Media updated"
+msgstr "Média mis à jour"
+
+#: src/classes/Defaults/Trigger/Media/MediaAdded.php:22
+msgid "Media added"
+msgstr "Média ajouté"
+
+#: src/classes/Defaults/Recipient/Email.php:26
+msgid "Email / Merge tag"
+msgstr "E-mail/Champs de fusion"
+
+#: src/classes/Defaults/Recipient/Email.php:79
+msgid "email@domain.com or {email}"
+msgstr "email@domain.com ou {email}"
+
+#: src/classes/Defaults/Carrier/WebhookJson.php:70
+#: src/classes/Defaults/Carrier/Email.php:86
+#: src/classes/Defaults/Carrier/Webhook.php:56
+#: src/classes/Defaults/Carrier/Webhook.php:92
+#: src/templates/debug/notification-log.php:74
+msgid "Key"
+msgstr "Clé"
+
+#: src/classes/Defaults/Carrier/Webhook.php:44
+msgid "Arguments"
+msgstr "Arguments"
+
+#: src/classes/Defaults/Carrier/WebhookJson.php:41
+#: src/classes/Defaults/Carrier/Webhook.php:40
+msgid "Add URL"
+msgstr "Ajouter une URL"
+
+#: src/classes/Defaults/Carrier/WebhookJson.php:39
+#: src/classes/Defaults/Carrier/Webhook.php:38
+msgid "URLs"
+msgstr "URLs"
+
+#: src/classes/Defaults/MergeTag/User/UserRole.php:45
+msgid "Subscriber"
+msgstr "Abonné"
+
+#: src/classes/Defaults/MergeTag/User/UserRole.php:44
+msgid "User role"
+msgstr "Rôle utilisateur"
+
+#: src/classes/Defaults/MergeTag/User/UserNicename.php:45
+msgid "Johhnie"
+msgstr "Johhnie"
+
+#. translators: singular post name.
+#: src/classes/Defaults/MergeTag/Post/PostTitle.php:50
+#: src/classes/Defaults/MergeTag/Taxonomy/TaxonomyName.php:46
+msgid "Hello World"
+msgstr "Bonjour tout le monde !"
+
+#. translators: singular post name.
+#: src/classes/Defaults/MergeTag/Post/PostSlug.php:50
+#: src/classes/Defaults/MergeTag/Taxonomy/TaxonomySlug.php:46
+msgid "hello-world"
+msgstr "bonjour-tout-le-monde"
+
+#: src/classes/Defaults/MergeTag/DateTime/DateTime.php:35
+msgid "Date and Time"
+msgstr "Date et heure"
+
+#: src/classes/Defaults/MergeTag/DateTime/Time.php:39
+#: src/classes/Defaults/MergeTag/DateTime/Time.php:44
+#: src/classes/Defaults/MergeTag/DateTime/DateTime.php:40
+#: src/classes/Defaults/MergeTag/DateTime/Date.php:35
+#: src/classes/Defaults/MergeTag/DateTime/Date.php:39
+msgid "Date"
+msgstr "Date"
+
+#: src/classes/Defaults/MergeTag/Comment/CommentType.php:43
+msgid "Comment type"
+msgstr "Type de commentaire"
+
+#: src/classes/Defaults/MergeTag/Comment/CommentStatus.php:55
+msgid "Trashed"
+msgstr "Mis à la corbeille"
+
+#: src/classes/Defaults/MergeTag/Comment/CommentStatus.php:53
+msgid "Marked as spam"
+msgstr "Marqué comme indésirable"
+
+#: src/classes/Defaults/MergeTag/Comment/CommentStatus.php:51
+msgid "Unapproved"
+msgstr "Désapprouvé"
+
+#. Translators: Comment type name.
+#: src/classes/Defaults/MergeTag/Comment/CommentStatus.php:45
+#: src/classes/Defaults/MergeTag/Comment/CommentStatus.php:49
+msgid "Approved"
+msgstr "Approuvé"
+
+#. translators: singular post name.
+#: src/classes/Defaults/MergeTag/Post/PostPermalink.php:50
+msgid "https://example.com/hello-world/"
+msgstr "https://example.com/bonjour-tout-le-monde/"
+
+#. Translators: Comment type name.
+#: src/classes/Defaults/MergeTag/Comment/CommentContent.php:45
+#: src/classes/Defaults/MergeTag/Comment/CommentContentHtml.php:45
+msgid "Great post!"
+msgstr "Super contenu !"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrashed.php:23
+msgid "Media trashed"
+msgstr "Média mis à la corbeille"
+
+#: src/classes/Defaults/Carrier/WebhookJson.php:60
+#: src/classes/Defaults/Carrier/Email.php:83
+#: src/classes/Defaults/Carrier/Webhook.php:82
+msgid "Add header"
+msgstr "Ajouter une en-tête"
+
+#: src/classes/Defaults/MergeTag/User/UserLogin.php:45
+msgid "johndoe"
+msgstr "johndoe"
+
+#: src/classes/Defaults/MergeTag/User/UserLastName.php:45
+msgid "Doe"
+msgstr "Doe"
+
+#: src/classes/Defaults/MergeTag/User/UserFirstName.php:45
+msgid "John"
+msgstr "John"
+
+#: src/classes/Defaults/Recipient/UserID.php:27
+#: src/classes/Defaults/MergeTag/User/UserID.php:44
+msgid "User ID"
+msgstr "ID de l’utilisateur"
+
+#: src/classes/Defaults/MergeTag/User/UserEmail.php:45
+msgid "john.doe@example.com"
+msgstr "john.doe@example.com"
+
+#: src/classes/Defaults/MergeTag/User/UserFirstName.php:44
+msgid "User first name"
+msgstr "Prénom de l’utilisateur"
+
+#: src/classes/Defaults/MergeTag/User/UserEmail.php:44
+msgid "User email"
+msgstr "E-mail de l’utilisateur"
+
+#: src/classes/Defaults/MergeTag/User/UserBio.php:44
+msgid "User bio"
+msgstr "Bio de l’utilisateur"
+
+#: src/classes/Defaults/MergeTag/Media/AttachmentPage.php:42
+msgid "http://example.com/forest-landscape/"
+msgstr "http://example.com/forest-landscape/"
+
+#: src/classes/Defaults/MergeTag/Media/AttachmentDirectUrl.php:42
+msgid "http://example.com/wp-content/uploads/2018/02/forest-landscape.jpg"
+msgstr "http://example.com/wp-content/uploads/2018/02/forest-landscape.jpg"
+
+#. Translators: Comment type name.
+#: src/classes/Defaults/MergeTag/Comment/CommentAuthorUrl.php:45
+msgid "http://mywebsite.com"
+msgstr "http://mywebsite.com"
+
+#: src/classes/Defaults/Field/RepeaterField.php:81
+#: src/classes/Defaults/Field/SectionRepeater.php:93
+msgid "Add new"
+msgstr "Ajouter"
+
+#: src/classes/Admin/Settings.php:360 src/classes/Admin/Settings.php:382
+#: src/classes/Defaults/Carrier/WebhookJson.php:58
+#: src/classes/Defaults/Carrier/Email.php:81
+#: src/classes/Defaults/Carrier/Webhook.php:80
+msgid "Headers"
+msgstr "En-têtes"
+
+#: src/classes/Admin/Settings.php:308 src/classes/Admin/Settings.php:372
+#: src/classes/Admin/PostTable.php:160
+#: src/classes/Defaults/Field/CheckboxField.php:36
+#: src/templates/save-metabox.php:13
+msgid "Enable"
+msgstr "Activer"
+
+#: src/classes/Admin/Settings.php:306 src/classes/Defaults/Carrier/Email.php:32
+#: src/templates/wizard.php:47
+msgid "Email"
+msgstr "E-mail"
+
+#. Translators: singular post name.
+#: src/classes/Admin/Settings.php:128
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:184
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:191
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:199
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:208
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:217
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:226
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:235
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:244
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:253
+msgid "Post"
+msgstr "Contenu"
+
+#: src/classes/Admin/Screen.php:197 src/templates/save-metabox.php:33
+msgid "Save"
+msgstr "Enregistrer"
+
+#: src/classes/Admin/PostTable.php:31 src/templates/sync/notifications.php:15
+msgid "Status"
+msgstr "État"
+
+#: src/classes/Admin/Screen.php:220
+msgid "Move to Trash"
+msgstr "Déplacer dans la corbeille"
+
+#: src/classes/Admin/Screen.php:218
+msgid "Delete Permanently"
+msgstr "Supprimer définitivement"
+
+#: src/classes/Defaults/Trigger/User/UserLogout.php:22
+msgid "User logout"
+msgstr "Déconnexion de l’utilisateur"
+
+#: src/classes/Defaults/Trigger/User/UserRegistered.php:22
+msgid "User registration"
+msgstr "Inscription de l’utilisateur"
+
+#: src/classes/Defaults/Carrier/WebhookJson.php:76
+#: src/classes/Defaults/Carrier/Email.php:92
+#: src/classes/Defaults/Carrier/Webhook.php:62
+#: src/classes/Defaults/Carrier/Webhook.php:98
+#: src/templates/debug/notification-log.php:75
+msgid "Value"
+msgstr "Valeur"
+
+#. Translators: %s settings URL.
+#: src/classes/Defaults/Recipient/Administrator.php:61
+msgid "You can edit this email in <a href=\"%s\">General Settings</a>"
+msgstr "Vous pouvez modifier cet e-mail dans les <a href=\"%s\">Réglages</a>"
+
+#: src/classes/Defaults/Carrier/WebhookJson.php:52
+#: src/classes/Defaults/Carrier/WebhookJson.php:73
+#: src/classes/Defaults/Carrier/WebhookJson.php:79
+#: src/classes/Defaults/Carrier/Email.php:89
+#: src/classes/Defaults/Carrier/Email.php:95
+#: src/classes/Defaults/Carrier/Webhook.php:59
+#: src/classes/Defaults/Carrier/Webhook.php:66
+#: src/classes/Defaults/Carrier/Webhook.php:95
+#: src/classes/Defaults/Carrier/Webhook.php:101
+msgid "You can use merge tags"
+msgstr "Vous pouvez utiliser les champs de fusion"
+
+#: src/classes/Defaults/Carrier/Webhook.php:46
+msgid "Add argument"
+msgstr "Ajouter un argument"
+
+#: src/includes/defaults/global-merge-tags.php:93
+#: src/classes/Defaults/MergeTag/User/UserLogin.php:44
+#: src/classes/Defaults/Trigger/User/UserLogin.php:23
+msgid "User login"
+msgstr "Connexion de l’utilisateur"
+
+#: src/classes/Defaults/MergeTag/User/UserLastName.php:44
+msgid "User last name"
+msgstr "Nom de famille de l’utilisateur"
+
+#: src/classes/Defaults/MergeTag/User/UserBio.php:45
+msgid "Developer based in Ontario, Canada"
+msgstr "Développeur basé à Ontario, Canada"
+
+#: src/classes/Defaults/MergeTag/DateTime/Time.php:35
+msgid "Time"
+msgstr "Heure"
+
+#: src/classes/Admin/Settings.php:27
+msgid "Content"
+msgstr "Contenu"
+
+#: src/classes/Admin/Settings.php:29
+msgid "Empty merge tags"
+msgstr "Champs de fusion vides"
+
+#: src/classes/Admin/Settings.php:40
+msgid "Shortcodes"
+msgstr "Codes courts"
+
+#: src/classes/Defaults/Trigger/User/UserRegistered.php:26
+msgid "Fires when user registers new account"
+msgstr "Se déclenche quand un utilisateur enregistre un nouveau compte"
+
+#: src/classes/Admin/Settings.php:370
+msgid "Webhook"
+msgstr "Crochet web"
+
+#: src/classes/Admin/Settings.php:50
+msgid "Notification content settings"
+msgstr "Réglages du contenu de la notification"
+
+#: src/classes/Admin/Settings.php:35 src/classes/Admin/Settings.php:46
+msgid "This will affect any notification fields"
+msgstr "Cela va affecter tous les champs de notification"
+
+#: src/classes/Admin/Settings.php:33
+msgid "Remove unused merge tags from sent values"
+msgstr "Retirer les champs de fusion non utilisés dans les valeurs envoyées"
+
+#: src/classes/Admin/PostType.php:350
+msgid "Notification status couldn't be changed."
+msgstr "L’état de la notification n’a pas pu être changé."
+
+#: src/classes/Admin/Extensions.php:62
+msgid "Notification extensions"
+msgstr "Extensions à Notification"
+
+#. translators: singular post name.
+#: src/classes/Defaults/MergeTag/Post/PostExcerpt.php:50
+msgid "Welcome to WordPress..."
+msgstr "Bienvenue sur WordPress…"
+
+#. translators: singular post name.
+#: src/classes/Defaults/MergeTag/Post/PostContent.php:50
+#: src/classes/Defaults/MergeTag/Post/PostContentHtml.php:50
+msgid "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!"
+msgstr "Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis lancez-vous !"
+
+#: src/classes/Defaults/MergeTag/Media/AttachmentTitle.php:42
+msgid "Forest landscape"
+msgstr "Paysage de forêt"
+
+#: src/classes/Defaults/MergeTag/Media/AttachmentTitle.php:41
+msgid "Attachment title"
+msgstr "Titre du fichier joint"
+
+#: src/classes/Defaults/MergeTag/Media/AttachmentPage.php:41
+msgid "Attachment page link"
+msgstr "Lien de la page du fichier joint"
+
+#: src/classes/Defaults/MergeTag/Media/AttachmentMimeType.php:41
+msgid "Attachment MIME type"
+msgstr "Type MIME du fichier joint"
+
+#: src/classes/Defaults/MergeTag/Media/AttachmentID.php:41
+msgid "Attachment ID"
+msgstr "ID du fichier joint"
+
+#: src/classes/Defaults/MergeTag/Media/AttachmentDirectUrl.php:41
+msgid "Attachment direct URL"
+msgstr "URL directe vers le fichier joint"
+
+#: src/classes/Defaults/MergeTag/DateTime/Time.php:50
+#: src/classes/Defaults/MergeTag/DateTime/DateTime.php:46
+#: src/classes/Defaults/MergeTag/DateTime/Date.php:45
+msgid "You can change the format in General WordPress Settings."
+msgstr "Vous pouvez changer le format dans le réglages Général de WordPress."
+
+#: src/classes/Admin/Settings.php:386
+msgid "Allow to configure webhook headers"
+msgstr "Autoriser la configuration des en-têtes de crochet web"
+
+#: src/classes/Defaults/Trigger/Media/MediaUpdated.php:25
+msgid "Fires when attachment is updated"
+msgstr "Se déclenche quand un fichier joint est mis à jour"
+
+#: src/classes/Defaults/Trigger/User/UserDeleted.php:27
+msgid "Fires when user account is deleted"
+msgstr "Se déclenche quand un compte utilisateur est supprimé"
+
+#: src/classes/Defaults/Trigger/User/UserLogin.php:27
+msgid "Fires when user log into WordPress"
+msgstr "Se déclenche quand un utilisateur se connecte à WordPress"
+
+#: src/classes/Defaults/Trigger/User/UserLogout.php:26
+msgid "Fires when user log out from WordPress"
+msgstr "Se déclenche quand un utilisateur se déconnecte de WordPress"
+
+#: src/classes/Defaults/Trigger/User/UserLogin.php:66
+msgid "User login time"
+msgstr "Heure de connexion de l’utilisateur"
+
+#: src/classes/Defaults/Trigger/User/UserProfileUpdated.php:26
+msgid "Fires when user updates his profile"
+msgstr "Se déclenche quand un utilisateur met à jour son profil"
+
+#: src/classes/Defaults/Trigger/User/UserProfileUpdated.php:64
+msgid "User profile update time"
+msgstr "Heure de mise à jour du profil de l’utilisateur"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrashed.php:26
+msgid "Fires when attachment is removed"
+msgstr "Se déclenche quand un fichier joint est retiré"
+
+#: src/classes/Defaults/Trigger/Media/MediaAdded.php:25
+msgid "Fires when new attachment is added"
+msgstr "Se déclenche quand un nouveau fichier joint est ajouté"
+
+#. translators: comment type.
+#: src/classes/Defaults/Trigger/Comment/CommentSpammed.php:34
+msgid "Fires when %s is marked as spam"
+msgstr "Se déclenche quand un %s est marqué comme indésirable"
+
+#. translators: comment type.
+#: src/classes/Defaults/Trigger/Comment/CommentApproved.php:34
+msgid "Fires when %s is approved"
+msgstr "Se déclenche quand un %s est approuvé"
+
+#: src/classes/Defaults/Recipient/UserID.php:66
+#: src/classes/Defaults/Recipient/Email.php:80
+#: src/classes/Defaults/Recipient/Webhook.php:61
+msgid "You can use any valid email merge tag."
+msgstr "Vous pouvez utiliser n’importe quel champ de fusion d’e-mail valide."
+
+#. translators: comment type.
+#: src/classes/Defaults/Trigger/Comment/CommentUnapproved.php:34
+msgid "Fires when %s is marked as unapproved"
+msgstr "Se déclenche quand un %s est désapprouvé"
+
+#. translators: comment type.
+#: src/classes/Defaults/Trigger/Comment/CommentTrashed.php:34
+msgid "Fires when %s is trashed"
+msgstr "Se déclenche quand un est mis à la corbeille"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:44
+msgid "Attachment creation date"
+msgstr "Date de la création du fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:51
+msgid "Attachment author user ID"
+msgstr "ID utilisateur de l’auteur du fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:57
+msgid "Attachment author user login"
+msgstr "Identifiant de connexion de l’auteur du fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:63
+msgid "Attachment author user email"
+msgstr "E-mail de l'auteur du fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:81
+msgid "Attachment author user first name"
+msgstr "Prénom de l’auteur du fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:87
+msgid "Attachment author user last name"
+msgstr "Nom de famille de l’auteur du fichier joint"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrashed.php:125
+msgid "%s trashing user last name"
+msgstr "Nom de famille de l’utilisateur qui à mis %s à la corbeille"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrashed.php:117
+msgid "%s trashing user first name"
+msgstr "Prénom de l’utilisateur qui à mis %s à la corbeille"
+
+#: src/classes/Defaults/Trigger/User/UserTrigger.php:44
+msgid "User registration date"
+msgstr "Date d’inscription de l’utilisateur"
+
+#: src/classes/Defaults/Trigger/Media/MediaUpdated.php:95
+msgid "Attachment updating user last name"
+msgstr "Nom de famille de l’utilisateur qui a mis à jour le fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaUpdated.php:88
+msgid "Attachment updating user first name"
+msgstr "Prénom de l’utilisateur qui a mis à jour le fichier joint"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostUpdated.php:95
+msgid "%s updating user login"
+msgstr "Identifiant de connexion de l’utilisateur qui a mis à jour %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostUpdated.php:103
+#: src/classes/Defaults/Trigger/Post/PostUpdated.php:143
+msgid "%s updating user email"
+msgstr "E-mail de l’utilisateur qui a mis à jour %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostUpdated.php:135
+msgid "%s updating user last name"
+msgstr "Nom de famille de l’utilisateur qui a mis à jour %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostUpdated.php:127
+msgid "%s updating user first name"
+msgstr "Prénom de l’utilisateur qui a mis à jour %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrashed.php:93
+msgid "%s trashing user email"
+msgstr "E-mail de l’utilisateur qui a mis à la corbeille %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrashed.php:85
+msgid "%s trashing user login"
+msgstr "Identifiant de connexion de l’utilisateur qui a mis à la corbeille %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrashed.php:77
+msgid "%s trashing user ID"
+msgstr "ID de l’utilisateur qui a mis à la corbeille %s"
+
+#: src/classes/Defaults/Trigger/User/UserDeleted.php:65
+msgid "User deletion time"
+msgstr "Heure de suppression de l’utilisateur"
+
+#: src/classes/Defaults/Trigger/User/UserLogout.php:63
+msgid "User logout time"
+msgstr "Heure de déconnexion de l’utilisateur"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrashed.php:75
+msgid "Attachment trashing user email"
+msgstr "E-mail de l’utilisateur qui a mis à la corbeille le fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrashed.php:96
+msgid "Attachment trashing user first name"
+msgstr "Prénom de l’utilisateur qui a mis à la corbeille le fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrashed.php:103
+msgid "Attachment trashing user last name"
+msgstr "Nom de famille de l’utilisateur qui a mis à la corbeille le fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrashed.php:68
+msgid "Attachment trashing user login"
+msgstr "Identifiant de connexion de l’utilisateur qui a mis à la corbeille le fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrashed.php:61
+msgid "Attachment trashing user ID"
+msgstr "ID utilisateur de l’utilisateur qui a mis à la corbeille le fichier joint"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostUpdated.php:87
+msgid "%s updating user ID"
+msgstr "ID de l’utilisateur qui a mis à jour %s"
+
+#: src/classes/Defaults/Trigger/Media/MediaUpdated.php:74
+msgid "Attachment updating user email"
+msgstr "E-mail de l’utilisateur qui a mis à jour le fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaUpdated.php:67
+msgid "Attachment updating user login"
+msgstr "Identifiant de connexion de l’utilisateur qui a mis à jour le fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaUpdated.php:60
+msgid "Attachment updating user ID"
+msgstr "ID de l’utilisateur qui a mis à jour le fichier joint"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostUpdated.php:111
+msgid "%s updating user nicename"
+msgstr "Identifiant normalisé de l’utilisateur qui a mis à jour %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrashed.php:101
+msgid "%s trashing user nicename"
+msgstr "Identifiant normalisé de l’utilisateur qui a mis à la corbeille %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostPublished.php:106
+msgid "%s publishing user nicename"
+msgstr "Identifiant normalisé de l’utilisateur qui a publié %s"
+
+#: src/classes/Defaults/Trigger/Media/MediaUpdated.php:81
+msgid "Attachment updating user nicename"
+msgstr "Identifiant normalisé de l’utilisateur qui a mis à jour le fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrashed.php:82
+msgid "Attachment trashing user nicename"
+msgstr "Identifiant normalisé de l’utilisateur qui a mis à la corbeille le fichier joint"
+
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:69
+msgid "Attachment author user nicename"
+msgstr "Identifiant normalisé de l’auteur du fichier joint"
+
+#: src/classes/Defaults/MergeTag/User/UserNicename.php:44
+msgid "User nicename"
+msgstr "Identifiant normalisé de l’utilisateur"
+
+#. translators: singular post name.
+#. Translators: Comment type name.
+#: src/classes/Defaults/MergeTag/Post/PostID.php:49
+#: src/classes/Defaults/MergeTag/Comment/CommentID.php:44
+msgid "%s ID"
+msgstr "ID de la/l' %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/MergeTag/Post/PostTitle.php:49
+msgid "%s title"
+msgstr "Titre de la/l' %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/MergeTag/Post/PostSlug.php:49
+msgid "%s slug"
+msgstr "Slug de la/l' %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/MergeTag/Post/PostPermalink.php:49
+msgid "%s permalink"
+msgstr "Permalien de la/l' %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/MergeTag/Post/PostExcerpt.php:49
+msgid "%s excerpt"
+msgstr "Extrait de la/l' %s"
+
+#. translators: singular post name.
+#. Translators: Comment type name.
+#: src/classes/Defaults/MergeTag/Post/PostContent.php:49
+#: src/classes/Defaults/MergeTag/Comment/CommentContent.php:44
+msgid "%s content"
+msgstr "Contenu de la/l' %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostPublished.php:98
+msgid "%s publishing user email"
+msgstr "E-mail de l’utilisateur qui a publié la/l' %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostPublished.php:90
+msgid "%s publishing user login"
+msgstr "Identifiant de connexion de l’utilisateur qui a publié la/l' %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostPublished.php:82
+msgid "%s publishing user ID"
+msgstr "ID de l’utilisateur qui a publié la/l' %s"
+
+#. translators: singular post name.
+#. Translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:158
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:184
+msgid "%s creation date and time"
+msgstr "Date et heure de création de la/l' %s"
+
+#. translators: singular post name.
+#. Translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:164
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:191
+msgid "%s modification date and time"
+msgstr "Date et heure de modification de la/l' %s"
+
+#. translators: singular post name.
+#. Translators: Comment type name.
+#. Translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:171
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:134
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:199
+msgid "%s author user ID"
+msgstr "ID d’utilisateur de l’auteur de la/l' %s"
+
+#. translators: singular post name.
+#. Translators: Comment type name.
+#. Translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:187
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:142
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:217
+msgid "%s author user email"
+msgstr "E-mail de l’auteur de la/l' %s"
+
+#. translators: singular post name.
+#. Translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:179
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:208
+msgid "%s author user login"
+msgstr "Identifiant de connexion de l’auteur de la/l' %s"
+
+#. translators: singular post name.
+#. Translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:219
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:253
+msgid "%s author user last name"
+msgstr "Nom de famille de l’auteur de la/l' %s"
+
+#. translators: singular post name.
+#. Translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:211
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:244
+msgid "%s author user first name"
+msgstr "Prénom de l’auteur de la/l' %s"
+
+#. translators: singular post name.
+#. Translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:195
+#: src/classes/Defaults/Trigger/Comment/CommentTrigger.php:226
+msgid "%s author user nicename"
+msgstr "Identifiant normalisé de l'auteur de la/l' %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostPublished.php:130
+msgid "%s publishing user last name"
+msgstr "Nom de famille de l’utilisateur qui a publié la/l' %s"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostPublished.php:122
+msgid "%s publishing user first name"
+msgstr "Prénom de l’utilisateur de l’utilisateur qui a publié la/l' %s"
+
+#. translators: 1. singular post name, 2. post type slug.
+#: src/classes/Defaults/Trigger/Post/PostTrashed.php:34
+msgid "Fires when %1$s (%2$s) is moved to trash"
+msgstr "Se déclenche quand %1$s (%2$s) est déplacé vers la corbeille"
+
+#. translators: 1. singular post name, 2. post type slug.
+#: src/classes/Defaults/Trigger/Post/PostPublished.php:39
+msgid "Fires when %1$s (%2$s) is published"
+msgstr "Se déclenche quand %1$s (%2$s) est publié"
+
+#. translators: 1. singular post name, 2. post type slug.
+#: src/classes/Defaults/Trigger/Post/PostPending.php:34
+msgid "Fires when %1$s (%2$s) is sent for review"
+msgstr "Se déclenche quand %1$s (%2$s) est mis en attente de relecture"
+
+#. translators: 1. singular post name, 2. post type slug.
+#. translators: 1. taxonomy name, 2. taxonomy slug.
+#: src/classes/Defaults/Trigger/Post/PostUpdated.php:34
+#: src/classes/Defaults/Trigger/Taxonomy/TermUpdated.php:50
+msgid "Fires when %1$s (%2$s) is updated"
+msgstr "Se déclenche quand %1$s (%2$s) est mis à jour"
+
+#: src/classes/Admin/Settings.php:44
+msgid "Strip all shortcodes"
+msgstr "Retirer tous les codes courts"
+
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:173
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:181
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:189
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:197
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:205
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:213
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:221
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:229
+#: src/classes/Defaults/Trigger/Post/PostTrigger.php:237
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:45
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:52
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:58
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:64
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:70
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:76
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:82
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:88
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:94
+#: src/templates/extension/extension-box.php:90
+msgid "Author"
+msgstr "Auteur"
+
+#: src/templates/extension/promo-box.php:17
+msgid "Your extension"
+msgstr "Votre extension"
+
+#: src/templates/extension/promo-box.php:21
+msgid "Send extension"
+msgstr "Envoyer l’extension"
+
+#: src/templates/extension/extension-box.php:84
+#: src/templates/extension/upsell-all-extensions.php:18
+msgid "Official"
+msgstr "Officiel"
+
+#: src/templates/extension/extension-box.php:66
+#: src/templates/extension/upsell-all-extensions.php:17
+msgid "More Details"
+msgstr "Plus de détails"
+
+#: src/templates/extension/extension-box.php:60
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Installé"
+
+#. translators: 1: Plugin name and version.
+#: src/templates/extension/extension-box.php:18
+msgid "Install %s now"
+msgstr "Installer %s maintenant"
+
+#: src/classes/Admin/Extensions.php:64 src/classes/Admin/Extensions.php:69
+#: src/templates/extension/page.php:14
+msgid "Extensions"
+msgstr "Extensions"
+
+#: src/templates/extension/extension-box.php:34
+msgid "Activate"
+msgstr "Activer"
+
+#. translators: %s: Plugin name
+#: src/templates/extension/extension-box.php:36
+msgctxt "plugin"
+msgid "Activate %s"
+msgstr "Activer %s"
+
+#: src/templates/extension/extension-box.php:32
+msgctxt "plugin"
+msgid "Active"
+msgstr "Actif"
+
+#. translators: 1: Plugin name and version
+#: src/templates/extension/extension-box.php:25
+msgid "Update Now"
+msgstr "Mettre à jour maintenant"
+
+#. translators: 1: Plugin name and version
+#: src/templates/extension/extension-box.php:25
+msgid "Update %s now"
+msgstr "Mettre à jour %s maintenant"
+
+#. translators: 1: Plugin name and version.
+#: src/templates/extension/extension-box.php:18
+msgid "Install Now"
+msgstr "Installer maintenant"
+
+#: src/templates/extension/promo-box.php:25
+msgid "If you wrote a Notification extension or you have a plugin which complete Notification, let us know!"
+msgstr "Si vous avez écrit une extension à Notification ou si vous avez une extension qui complète Notification, faites le nous savoir !"
+
+#. translators: %s: Plugin name
+#: src/templates/extension/extension-box.php:49
+msgctxt "plugin"
+msgid "Network Activate %s"
+msgstr "Activer %s sur le réseau"
+
+#: src/templates/extension/extension-box.php:47
+msgid "Network Activate"
+msgstr "Activer sur le réseau"
+
+#: src/classes/Defaults/Trigger/User/UserDeleted.php:23
+msgid "User deleted"
+msgstr "Utilisateur supprimé"
+
+#: src/classes/Admin/Settings.php:126
+msgid "Triggers"
+msgstr "Déclencheurs"
+
+#: src/classes/Admin/Settings.php:197 src/classes/Admin/Settings.php:199
+#: src/classes/Defaults/Trigger/Media/MediaTrigger.php:26
+msgid "Media"
+msgstr "Média"
+
+#: src/classes/Defaults/Trigger/User/UserProfileUpdated.php:22
+msgid "User profile updated"
+msgstr "Profil utilisateur mis à jour"
+
+#: src/classes/Admin/Settings.php:203
+msgid "Enable media triggers"
+msgstr "Activer les déclencheurs propre aux médias"
+
+#: src/classes/Admin/Settings.php:191
+msgid "Enable user triggers"
+msgstr "Activer les déclencheurs propre aux utilisateurs"
+
+#: src/classes/Defaults/Recipient/Role.php:29
+msgid "Role"
+msgstr "Rôle"
+
+#: src/templates/trigger/select.php:10
+msgid "Select trigger"
+msgstr "Sélectionner un déclencheur"
+
+#: src/classes/Admin/Settings.php:175
+#: src/classes/Defaults/Trigger/Plugin/PluginTrigger.php:28
+msgid "Akismet"
+msgstr "Akismet"
+
+#: src/classes/Admin/Settings.php:179
+msgid "Do not send notification if comment has been marked as a spam by Akismet"
+msgstr "Ne pas envoyer de notification si le commentaire a été marqué comme indésirable par Akismet"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostUpdated.php:28
+msgid "%s updated"
+msgstr "%s mis à jour"
+
+#. translators: singular post name.
+#. Translators: %s comment type.
+#: src/classes/Defaults/Trigger/Post/PostPublished.php:28
+#: src/classes/Defaults/Trigger/Comment/CommentPublished.php:27
+msgid "%s published"
+msgstr "%s publié"
+
+#: src/classes/Admin/Settings.php:25
+msgid "General"
+msgstr "Général"
+
+#: src/classes/Admin/Settings.php:88 src/classes/Admin/Debugging.php:27
+#: src/classes/Core/Settings.php:48 src/templates/settings/page.php:12
+msgid "Settings"
+msgstr "Réglages"
+
+#: src/classes/Admin/Settings.php:76
+msgid "Uninstallation"
+msgstr "Désinstallation"
+
+#. translators: singular post name.
+#. Translators: %s comment type.
+#: src/classes/Defaults/Trigger/Post/PostApproved.php:28
+#: src/classes/Defaults/Trigger/Comment/CommentApproved.php:27
+msgid "%s approved"
+msgstr "%s approuvé"
+
+#. translators: singular post name.
+#. Translators: %s comment type.
+#: src/classes/Defaults/Trigger/Post/PostAdded.php:28
+#: src/classes/Defaults/Trigger/Comment/CommentAdded.php:27
+msgid "%s added"
+msgstr "%s ajouté"
+
+#: src/classes/Admin/Settings.php:163
+msgid "Comment Types"
+msgstr "Types de commentaire"
+
+#: src/classes/Admin/Settings.php:130
+msgid "Post Types"
+msgstr "Types de contenu"
+
+#: src/classes/Core/Settings.php:45 src/classes/Core/Settings.php:53
+msgid "Notification settings"
+msgstr "Réglages de Notification"
+
+#. translators: singular post name.
+#. Translators: %s comment type.
+#: src/classes/Defaults/Trigger/Post/PostTrashed.php:28
+#: src/classes/Defaults/Trigger/Comment/CommentTrashed.php:27
+msgid "%s trashed"
+msgstr "%s mis à la corbeille"
+
+#. Translators: %s comment type.
+#: src/classes/Defaults/Trigger/Comment/CommentUnapproved.php:27
+msgid "%s unapproved"
+msgstr "% désapprouvé"
+
+#: src/classes/Admin/Settings.php:107
+msgid "Choose what to remove upon plugin removal"
+msgstr "Choisir quoi retirer lors du retrait d’une extension"
+
+#: src/classes/Admin/Settings.php:92
+msgid "Remove plugin settings"
+msgstr "Retirer les réglages de l’extension"
+
+#: src/classes/Admin/Settings.php:141
+msgid "For these post types you will be able to define published, updated, pending moderation etc. notifications"
+msgstr "Pour ces types de contenus, vous aurez la possibilité de définir des notifications à la publication, la mise à jour ou l’attente de modération, etc."
+
+#: src/templates/settings/page.php:15
+msgid "No Settings available at the moment"
+msgstr "Aucuns réglages disponibles pour le moment"
+
+#: src/classes/Admin/Settings.php:82
+msgid "Remove all added notifications"
+msgstr "Retirer toutes les notifications ajoutées"
+
+#: src/classes/Core/Cache.php:146
+msgid "Trackback"
+msgstr "Rétrolien"
+
+#: src/classes/Core/Cache.php:145
+msgid "Pingback"
+msgstr "Ping"
+
+#: src/classes/Defaults/Recipient/UserID.php:62
+#: src/classes/Defaults/Recipient/Email.php:76
+#: src/classes/Defaults/Recipient/User.php:73
+#: src/classes/Defaults/Recipient/Role.php:79
+#: src/classes/Defaults/Recipient/Administrator.php:55
+msgid "Recipient"
+msgstr "Destinataire"
+
+#: src/classes/Admin/PostTable.php:33
+#: src/templates/debug/notification-log.php:47
+#: src/templates/trigger/metabox.php:10
+msgid "Trigger"
+msgstr "Déclencheur"
+
+#: src/classes/Admin/PostType.php:54
+msgid "Parent Notification:"
+msgstr "Notification parent :"
+
+#: src/classes/Admin/PostType.php:48
+msgid "Edit Notification"
+msgstr "Modifier la notification"
+
+#: src/classes/Admin/Settings.php:161 src/classes/Core/Cache.php:144
+msgid "Comment"
+msgstr "Commentaire"
+
+#: src/classes/Admin/PostTable.php:57
+msgid "No trigger selected"
+msgstr "Aucun déclencheur sélectionné"
+
+#: src/classes/Defaults/Carrier/Email.php:44
+msgid "Subject"
+msgstr "Sujet"
+
+#: src/classes/Defaults/Field/RecipientsField.php:31
+msgid "Add recipient"
+msgstr "Ajouter un destinataire"
+
+#: src/classes/Admin/PostType.php:51
+msgid "Search Notifications"
+msgstr "Chercher parmi les notifications"
+
+#: src/classes/Admin/PostType.php:50
+msgid "View Notification"
+msgstr "Voir les notifications"
+
+#: src/classes/Admin/Settings.php:185 src/classes/Admin/Settings.php:187
+#: src/classes/Admin/Wizard.php:159 src/classes/Admin/Wizard.php:204
+#: src/classes/Admin/Wizard.php:214 src/classes/Admin/Wizard.php:224
+#: src/classes/Defaults/Recipient/User.php:30
+#: src/classes/Defaults/MergeTag/User/UserEmail.php:50
+#: src/classes/Defaults/MergeTag/User/UserID.php:50
+#: src/classes/Defaults/MergeTag/User/AvatarUrl.php:53
+#: src/classes/Defaults/MergeTag/User/UserLastName.php:50
+#: src/classes/Defaults/MergeTag/User/UserRole.php:58
+#: src/classes/Defaults/MergeTag/User/Avatar.php:56
+#: src/classes/Defaults/MergeTag/User/UserBio.php:50
+#: src/classes/Defaults/MergeTag/User/UserLogin.php:50
+#: src/classes/Defaults/MergeTag/User/UserFirstName.php:50
+#: src/classes/Defaults/MergeTag/User/UserDisplayName.php:50
+#: src/classes/Defaults/MergeTag/User/UserNicename.php:50
+#: src/classes/Defaults/Trigger/User/UserTrigger.php:26
+#: src/classes/Defaults/Trigger/User/UserLogin.php:84
+#: src/classes/Defaults/Trigger/User/UserRegistered.php:64
+msgid "User"
+msgstr "Utilisateur"
+
+#: src/classes/Admin/PostType.php:47
+msgid "Add New Notification"
+msgstr "Ajouter une nouvelle notification"
+
+#: src/classes/Admin/PostType.php:46
+msgctxt "notification"
+msgid "Add New Notification"
+msgstr "Ajouter une nouvelle notification"
+
+#: src/classes/Admin/PostType.php:49
+msgid "New Notification"
+msgstr "Nouvelle notification"
+
+#: src/classes/Admin/PostType.php:52
+msgid "No Notifications found"
+msgstr "Il n’y a aucune notification"
+
+#: src/classes/Admin/PostType.php:53
+msgid "No Notifications found in Trash"
+msgstr "Aucune notification dans la corbeille"
+
+#: src/templates/mergetag/metabox-nomergetags.php:10
+msgid "No merge tags available for this trigger"
+msgstr "Aucun champ de fusion n’est disponible pour ce déclencheur"
+
+#: src/templates/mergetag/metabox-notrigger.php:10
+msgid "Please select trigger first"
+msgstr "Veuillez d’abord sélectionner un déclencheur"
+
+#: src/templates/trigger/metabox.php:14
+msgid "No Triggers defined yet"
+msgstr "Aucun déclencheur définit pour le moment"
+
+#. translators: singular post name.
+#: src/classes/Defaults/Trigger/Post/PostPending.php:28
+msgid "%s sent for review"
+msgstr "%s en attente de relecture"
+
+#: src/classes/Admin/Screen.php:245
+msgid "Merge Tags"
+msgstr "Fusionner les étiquettes"
+
+#: src/classes/Admin/Wizard.php:119 src/classes/Admin/Wizard.php:139
+#: src/classes/Admin/Wizard.php:149 src/classes/Admin/Wizard.php:194
+#: src/classes/Admin/Wizard.php:234
+#: src/classes/Defaults/Recipient/Administrator.php:26
+msgid "Administrator"
+msgstr "Administrateur/administratrice"
+
+#: src/classes/Admin/ImportExport.php:30 src/classes/Admin/ImportExport.php:43
+#: src/classes/Admin/Settings.php:78 src/classes/Admin/Sync.php:46
+#: src/classes/Admin/PostType.php:44 src/classes/Admin/PostType.php:55
+msgid "Notifications"
+msgstr "Notifications"
+
+#. Plugin Name of the plugin
+#: src/classes/Admin/PostType.php:45 src/classes/Runtime.php:75
+#: src/templates/debug/notification-log.php:33
+msgid "Notification"
+msgstr "Notification"

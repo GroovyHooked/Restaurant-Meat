@@ -1,0 +1,219 @@
+/*
+Theme Name: OceanWP Child
+Theme URI: https://oceanwp.org/
+Template: oceanwp
+Author: Nick
+Author URI: https://oceanwp.org/about-me/
+Description: OceanWP is the perfect theme for your project. Lightweight and highly extendable, it will enable you to create almost any type of website such a blog, portfolio, business website and WooCommerce storefront with a beautiful &amp; professional design. Very fast, responsive, RTL &amp; translation ready, best SEO practices, unique WooCommerce features to increase conversion and much more. You can even edit the settings on tablet &amp; mobile so your site looks good on every device. Work with the most popular page builders as Elementor, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, etc... Developers will love his extensible codebase making it a joy to customize and extend. Best friend of Elementor &amp; WooCommerce. Looking for a Multi-Purpose theme? Look no further! Check the demos to realize that it's the only theme you will ever need: https://oceanwp.org/demos/
+Tags: two-columns,right-sidebar,footer-widgets,blog,news,custom-background,custom-menu,post-formats,rtl-language-support,sticky-post,editor-style,threaded-comments,translation-ready,buddypress,custom-colors,featured-images,full-width-template,theme-options,e-commerce,block-styles,wide-blocks,accessibility-ready
+Version: 2.0.2.1612125514
+Updated: 2021-01-31 21:38:34
+
+*/
+
+.elementor-element p {
+    margin-top: 0;
+}
+.menu-list .elementor-icon-list-items>li {
+    padding-right: 48px;
+}
+.menu-list .elementor-icon-list-items>li .list-price {
+    font-size: 125%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.menu-list .elementor-icon-list-items>li .item-desc, .menu-subtitle {
+    display: block;
+    font-size: 90%;
+    color: #777;
+    font-weight: normal;
+}
+.food-menu p, .dish-catalog p {
+    margin-bottom: 0;
+}
+.chef-profile .elementor-heading-title span {
+    display: block;
+    font-size: 75%;
+    color: #999;
+}
+.pricing-amount sup, .pricing-amount small {
+    font-size: 55%;
+}
+.highlighted {
+    color: #b8860b;
+}
+.food-menu .elementor-text-editor {
+    padding-right: 40px;
+}
+.food-menu .menu-price {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.food-menu.cafe .menu-subtitle {
+    line-height: 1.4;
+    font-size: 80%;
+    color: rgba(143, 103, 70, .8);
+}
+.ib-row {
+    font-size: 0;
+    white-space: nowrap;
+}
+.inline-block {
+    display: inline-block;
+    margin-right: 6px;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>h5 {
+    line-height: 1.12em;
+    font-size: 60px;
+    text-align: center;
+    color: grey;
+    margin-top: 50px;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.5px;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.reservation {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+#rtb-party {
+    width: 60%;
+    font-family: 'Lucida Console', Monaco, monospace;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.reservation>legend, #content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.rtb-contact>legend {
+    font-size: 2rem;
+    font-family: 'Lucida Console', Monaco, monospace;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.rtb-contact {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.rtb-contact>div.rtb-text.phone {
+    position: relative;
+    left: -12px;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.rtb-contact>div.add-message>a {
+    position: relative;
+    left: -15px;
+    top: 25px;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>button {
+    display: block;
+    -moz-border-radius: 28px;
+    -webkit-border-radius: 28px;
+    -o-border-radius: 28px;
+    border-radius: 28px;
+    background-color: #b8860b;
+    margin: 0 auto;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div {
+    position: relative;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div:before {
+    width: 120%;
+    position: absolute;
+    left: -50px;
+    border: 1px solid grey;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+    height: 100%;
+    content: '';
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-1bcec7ce.elementor-reverse-mobile.elementor-section-height-min-height.elementor-section-boxed.elementor-section-height-default.elementor-section-items-middle>div.elementor-container.elementor-column-gap-no {
+    z-index: -10;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-93789e0.elementor-section-boxed.elementor-section-height-default>div>div>div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-2426d09.animated.slideInRight>div>div>div>div>div>img {
+    position: relative;
+    bottom: -40px;
+    z-index: 1000;
+}
+.wpcf7-form>p:nth-child(2), .wpcf7-form>p:nth-child(3), .wpcf7-form>p:nth-child(4) {
+    width: 47%;
+    margin: 0 auto;
+}
+.wpcf7-form>p:nth-child(2)>label:nth-child(1), .wpcf7-form>p:nth-child(3)>label:nth-child(1), .wpcf7-form>p:nth-child(4)>label:nth-child(1), .wpcf7-form>p:nth-child(5)>label:nth-child(1) {
+    font-size: 1.5rem;
+    color: #5f6368;
+}
+.wpcf7-form>p:nth-child(5) {
+    padding: 20px 0 0 125px;
+}
+.wpcf7-form>p:nth-child(6) {
+    text-align: center;
+}
+.wpcf7-form>p:nth-child(6) .wpcf7-submit {
+    -moz-border-radius: 28px;
+    -webkit-border-radius: 28px;
+    -o-border-radius: 28px;
+    border-radius: 28px;
+    background-color: #b8860b;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-dbc4113.elementor-section-boxed.elementor-section-height-default>div>div>div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-a5bd2d4>div>div>div>div>div>img {
+    position: relative;
+    top: -30px;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-11564181.elementor-reverse-mobile.elementor-section-boxed.elementor-section-height-default>div>div>div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-52e4f7e1.animated.slideInLeft>div>div>div>div>div>img {
+    position: relative;
+    bottom: -40px;
+    z-index: 1000;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-11564181.elementor-reverse-mobile.elementor-section-boxed.elementor-section-height-default>div>div>div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-52e4f7e1.animated.fadeIn>div>div>div>div>div>img {
+    position: relative;
+    bottom: -30px;
+    z-index: 1000;
+}
+@media screen and (max-width: 960px) {
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div:before {
+    width: 102%;
+    width: 110%;
+    position: absolute;
+    left: -4px;
+    left: -50px;
+    border: 1px solid grey;
+    height: 100%;
+    content: '';
+}
+}
+@media screen and (max-width: 850px) {
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.reservation {
+    align-items: center;
+    flex-direction: column;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.rtb-contact {
+    align-items: center;
+    flex-direction: column;
+}
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.rtb-contact>div.rtb-text.phone {
+    position: relative;
+    left: 0;
+}
+}
+@media screen and (max-width: 400px) {
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>h5 {
+    line-height: 1.12em;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.5px;
+}
+}
+@media only screen and (min-width: 768px) {
+.rotate-90 .elementor-heading-title {
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+    -webkit-transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+    -o-transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+    transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+    top: 50%;
+}
+}

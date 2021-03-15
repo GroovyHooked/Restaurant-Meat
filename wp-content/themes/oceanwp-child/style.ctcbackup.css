@@ -1,0 +1,369 @@
+/*
+Theme Name: Theme enfant
+Description: Theme enfant de Thomas OceanWP
+Author: Benoit 
+Template: OceanWP
+Version: 0.1.0
+*/
+
+
+/** Start Template Kit CSS: Modern Restaurant (css/customizer.css) **/
+
+.elementor-element p {
+    margin-top: 0;
+}
+
+.menu-list .elementor-icon-list-items>li {
+    padding-right: 48px;
+}
+
+.menu-list .elementor-icon-list-items>li .list-price {
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 125%;
+}
+
+.menu-list .elementor-icon-list-items>li .item-desc,
+.menu-subtitle {
+    color: #777;
+    font-size: 90%;
+    display: block;
+    font-weight: normal;
+}
+
+.food-menu p,
+.dish-catalog p {
+    margin-bottom: 0;
+}
+
+.chef-profile .elementor-heading-title span {
+    display: block;
+    font-size: 75%;
+    color: #999;
+}
+
+.pricing-amount sup,
+.pricing-amount small {
+    font-size: 55%;
+}
+
+@media only screen and (min-width: 768px) {
+    .rotate-90 .elementor-heading-title {
+        display: inline-block;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        -moz-transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+        -webkit-transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+        transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+    }
+}
+
+.highlighted {
+    color: #b8860b;
+}
+
+.food-menu .elementor-text-editor {
+    padding-right: 40px;
+}
+
+.food-menu .menu-price {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.food-menu.cafe .menu-subtitle {
+    color: rgba(143, 103, 70, .8);
+    font-size: 80%;
+    line-height: 1.4;
+}
+
+.ib-row {
+    white-space: nowrap;
+    font-size: 0;
+}
+
+.inline-block {
+    display: inline-block;
+    margin-right: 6px;
+}
+
+
+/** End Template Kit CSS: Modern Restaurant (css/customizer.css) **/
+
+
+/*======================
+ * RESERVATIONS
+ * =====================*/
+
+
+/* titre "reservation" */
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>h5 {
+    text-align: center;
+    font-family: "Poppins", Sans-serif;
+    font-size: 60px;
+    font-weight: 300;
+    color: grey;
+    line-height: 1.12em;
+    letter-spacing: -0.5px;
+    margin-top: 50px;
+}
+
+
+/* section du haut */
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.reservation {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+
+/*selection nbre de personnes*/
+
+#rtb-party {
+    width: 60%;
+    font-family: 'Lucida Console', Monaco, monospace;
+    /*margin: 0 auto;
+	display: block;*/
+}
+
+
+/*légendes*/
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.reservation>legend,
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.rtb-contact>legend {
+    font-family: 'Lucida Console', Monaco, monospace;
+    font-size: 2rem
+}
+
+
+/*section du bas*/
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.rtb-contact {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+/*partie telephone/ zone du bas*/
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.rtb-contact>div.rtb-text.phone {
+    position: relative;
+    left: -12px;
+}
+
+
+/*ajouter un message*/
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.rtb-contact>div.add-message>a {
+    position: relative;
+    left: -15px;
+    top: 25px
+}
+
+
+/*bouton reservation*/
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>button {
+    margin: 0 auto;
+    display: block;
+    background-color: #B8860B;
+    border-radius: 28px;
+}
+
+
+/*pseudo element autour de la zone de resa*/
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div {
+    position: relative;
+}
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div:before {
+    content: '';
+    position: absolute;
+    left: -50px;
+    width: 120%;
+    height: 100%;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+
+/* photos au dessus du footer*/
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-1bcec7ce.elementor-reverse-mobile.elementor-section-height-min-height.elementor-section-boxed.elementor-section-height-default.elementor-section-items-middle>div.elementor-container.elementor-column-gap-no {
+    z-index: -10;
+}
+
+
+/* ===============
+ * MEDIAQUERY RESA 
+ * ===============*/
+
+@media screen and (max-width: 850px) {
+    /* section du haut */
+    #content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.reservation {
+        flex-direction: column;
+        align-items: center;
+    }
+    /*section du bas*/
+    #content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.rtb-contact {
+        flex-direction: column;
+        align-items: center;
+    }
+    /*section tel dans partie basse*/
+    #content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>div>form>fieldset.rtb-contact>div.rtb-text.phone {
+        position: relative;
+        left: 0px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    #content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div:before {
+        content: '';
+        position: absolute;
+        left: -50px;
+        width: 110%;
+        height: 100%;
+        border: 1px solid grey;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    #content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div:before {
+        content: '';
+        position: absolute;
+        left: -4px;
+        width: 102%;
+        height: 100%;
+        border: 1px solid grey;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    #content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b0237ca.elementor-section-boxed.elementor-section-height-default>div>div>div>div>div>div>div>h5 {
+        text-align: center;
+        font-family: "Poppins", Sans-serif;
+        font-size: 40px;
+        font-weight: 300;
+        line-height: 1.12em;
+        letter-spacing: -0.5px;
+        margin-top: 50px;
+    }
+}
+
+
+/**** FIN MEDIAQUERY ****/
+
+
+/* photo sous la zone de reservation */
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-93789e0.elementor-section-boxed.elementor-section-height-default>div>div>div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-2426d09.animated.slideInRight>div>div>div>div>div>img {
+    position: relative;
+    bottom: -40px;
+    z-index: 1000;
+}
+
+
+/*================
+ * CONTACT
+ * ================*/
+
+
+/* Formulaire de contact */
+
+.wpcf7-form>p:nth-child(2),
+.wpcf7-form>p:nth-child(3),
+.wpcf7-form>p:nth-child(4) {
+    margin: 0 auto;
+    width: 47%;
+}
+
+.wpcf7-form>p:nth-child(2)>label:nth-child(1),
+.wpcf7-form>p:nth-child(3)>label:nth-child(1),
+.wpcf7-form>p:nth-child(4)>label:nth-child(1),
+.wpcf7-form>p:nth-child(5)>label:nth-child(1) {
+    color: #5F6368;
+    font-size: 1.5rem;
+}
+
+
+/* zone du message / formulaire*/
+
+.wpcf7-form>p:nth-child(5) {
+    padding: 20px 0px 0 125px;
+}
+
+
+/*Bouton du formulaire */
+
+.wpcf7-form>p:nth-child(6) {
+    text-align: center;
+}
+
+.wpcf7-form>p:nth-child(6) .wpcf7-submit {
+    background-color: #B8860B;
+    border-radius: 28px;
+}
+
+
+/*================
+ * RESERVATIONS
+ * ================*/
+
+
+/*image du haut */
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-dbc4113.elementor-section-boxed.elementor-section-height-default>div>div>div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-a5bd2d4>div>div>div>div>div>img {
+    position: relative;
+    top: -30px;
+}
+
+
+/*image du bas */
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-11564181.elementor-reverse-mobile.elementor-section-boxed.elementor-section-height-default>div>div>div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-52e4f7e1.animated.slideInLeft>div>div>div>div>div>img {
+    position: relative;
+    bottom: -40px;
+    z-index: 1000;
+}
+
+
+/*==============
+ * A PROPOS
+ * ===============*/
+
+
+/* image du bas */
+
+#content>article>div>div>div>div>section.elementor-section.elementor-top-section.elementor-element.elementor-element-11564181.elementor-reverse-mobile.elementor-section-boxed.elementor-section-height-default>div>div>div.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-52e4f7e1.animated.fadeIn>div>div>div>div>div>img {
+    position: relative;
+    bottom: -30px;
+    z-index: 1000;
+}
+
+
+/*================
+ * ACCUEIL
+ * ================*/
+
+.elementor-element-16f57f14>div:nth-child(1) {}
+
+
+/*
+const poller = setInterval(function () {
+    const myElement = document.querySelector('.rtb-message');
+    
+	if (myElement) {
+        myNewElement = document.querySelector('div.premium-image-separator-container');		
+        myNewElement.scrollIntoView();
+        clearInterval(poller);
+	}
+}, 1000);
+
+*/

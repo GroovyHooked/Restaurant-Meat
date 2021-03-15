@@ -1,0 +1,78 @@
+.elementor-element p {
+	margin-top: 0;
+}
+
+.menu-list .elementor-icon-list-items > li {
+	padding-right: 48px;
+}
+
+.menu-list .elementor-icon-list-items > li .list-price {
+	position: absolute;
+	right: 0;
+	top: 0;
+	font-size: 125%;
+}
+
+.menu-list .elementor-icon-list-items > li .item-desc,
+.menu-subtitle {
+	color: #777;
+	font-size: 90%;
+	display: block;
+	font-weight: normal;
+}
+
+.food-menu p,
+.dish-catalog p {
+	margin-bottom: 0;
+}
+
+.chef-profile .elementor-heading-title span {
+	display: block;
+	font-size: 75%;
+	color: #999;
+}
+
+.pricing-amount sup,
+.pricing-amount small {
+	font-size: 55%;
+}
+
+@media only screen and (min-width: 768px) {
+	.rotate-90 .elementor-heading-title {
+		display: inline-block;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+	-moz-transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+		-webkit-transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+		transform:  translateX(-50%) translateY(-50%) rotate(-90deg);		
+	}
+}
+
+.highlighted {
+	color: #b8860b;
+}
+
+.food-menu .elementor-text-editor {
+	padding-right: 40px;
+}
+
+.food-menu .menu-price {
+	position: absolute;
+	right: 0;
+	top:  0;
+}
+.food-menu.cafe .menu-subtitle {
+	color: rgba(143,103,70,.8);
+	font-size: 80%;
+	line-height: 1.4;
+}
+
+.ib-row {
+	white-space: nowrap;
+	font-size: 0;
+}
+.inline-block {
+	display: inline-block;
+	margin-right: 6px;
+}

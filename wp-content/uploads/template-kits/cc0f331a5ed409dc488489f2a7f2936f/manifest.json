@@ -1,0 +1,258 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Modern Restaurant",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home Caf\u00e9",
+            "screenshot": "screenshots\/home-caf-.jpg",
+            "source": "templates\/home-caf-f3bbffe6b39bc5718c61081b92973ba6.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Caf\u00e9 2",
+            "screenshot": "screenshots\/home-caf-2.jpg",
+            "source": "templates\/home-caf-2-2d1355b353ae22a9a2b7fc981839fdcc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Restaurant",
+            "screenshot": "screenshots\/home-restaurant.jpg",
+            "source": "templates\/home-restaurant-8bc85b15e504819c233e367ab5221875.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Restaurant 2",
+            "screenshot": "screenshots\/home-restaurant-2.jpg",
+            "source": "templates\/home-restaurant-2-1dcafcfc071e3efcc6d3241d10dad6a2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials-56d63cfce5bd0b3fee6a87a4759f0fed.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials 2",
+            "screenshot": "screenshots\/testimonials-2.jpg",
+            "source": "templates\/testimonials-2-8987ae29d3b61cd5e1d770d03b3025e1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Wine Single Post",
+            "screenshot": "screenshots\/wine-single-post.jpg",
+            "source": "templates\/wine-single-post-d4f654cf7380aec6f6e98d764ddd9e0c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Meal Single Post",
+            "screenshot": "screenshots\/meal-single-post.jpg",
+            "source": "templates\/meal-single-post-d225093c18e7d49e45a17c19af6e320b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Daily Specials Menu",
+            "screenshot": "screenshots\/daily-specials-menu.jpg",
+            "source": "templates\/daily-specials-menu-3a4626d373261cd028cc9049bb9b6f15.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Food Menu",
+            "screenshot": "screenshots\/food-menu.jpg",
+            "source": "templates\/food-menu-d21a1d3c55e0addff50a3bbda201b0cd.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Food Menu 2",
+            "screenshot": "screenshots\/food-menu-2.jpg",
+            "source": "templates\/food-menu-2-64590709d1d16ce7f78e2f21fdaaa662.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Food Menu 3",
+            "screenshot": "screenshots\/food-menu-3.jpg",
+            "source": "templates\/food-menu-3-31ed816c4511e89a047a5c18625cf22e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Meals Catalog \u2013 Shop style",
+            "screenshot": "screenshots\/meals-catalog-shop-style.jpg",
+            "source": "templates\/meals-catalog-shop-style-f39c60ef7bf4db7f82c926680b576ccf.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Meals Catalog &ndash; Card style",
+            "screenshot": "screenshots\/meals-catalog-ndash-card-style.jpg",
+            "source": "templates\/meals-catalog-ndash-card-style-f0df928e3f420ec99c95af90775d2887.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us-bf530472725d7d8028d61925fbd09d0b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team Page \u2013 Card Style",
+            "screenshot": "screenshots\/team-page-card-style.jpg",
+            "source": "templates\/team-page-card-style-f1a7a60a0fe3adc073afca28213b1b21.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team Page \u2013 List Style",
+            "screenshot": "screenshots\/team-page-list-style.jpg",
+            "source": "templates\/team-page-list-style-1a03151f850f7d206d040e54f6936ed3.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Plans & Packages",
+            "screenshot": "screenshots\/plans-packages.jpg",
+            "source": "templates\/plans-packages-7344ae86de283789abd56011f86e20e2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup (Pro)",
+            "screenshot": "screenshots\/popup-pro-.jpg",
+            "source": "templates\/popup-pro-a3818de5d4e7888ca67714f55ec600f7.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": []
+}
